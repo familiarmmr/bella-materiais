@@ -24,7 +24,7 @@ Curadoria prática para a Família usar em casa. Foco: prática progressiva (est
 | **Bilíngue** | Não misturar PT e EN na mesma sessão de 10 min no início — um foco por vez |
 
 **Rotina sugerida (15 min):** 5 min oral/corpo → 5–7 min papel ou manipulação → 2–3 min história/canto.  
-**Alternância semanal:** 2 dias PT/pré-leitura · 1–2 dias matemática · 1 dia inglês (música + fala) · 1 dia “mundo” (calendário/natureza/planetas).
+**Alternância semanal:** 2 dias PT/pré-leitura · 1–2 dias matemática · 1 dia inglês um pouco mais longo · 1 dia “mundo” — e **3–5 min de inglês todos os dias** (a Criança tem aula de EN aos sábados; em casa reforça leve).
 
 ---
 

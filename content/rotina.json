@@ -1,8 +1,8 @@
 {
   "intro": {
     "title": "Rotina semanal em casa",
-    "tagline": "4–5 dias · 10–15 min · reforçar o conhecido · um novidade por vez · parar enquanto está gostoso.",
-    "nivel": "Criança já reconhece e escreve algumas letras e números, ainda em aprendizado inicial."
+    "tagline": "Todos os dias: 3–5 min de inglês + foco do dia (10–15 min) · reforçar o conhecido · um novidade por vez · parar enquanto está gostoso.",
+    "nivel": "Criança já reconhece e escreve algumas letras e números, ainda em aprendizado inicial. Tem aula de inglês aos sábados — em casa, um pouquinho de EN todo dia reforça sem cansar."
   },
   "regras": [
     {
@@ -10,8 +10,12 @@
       "text": "“Vamos brincar de…?” Se disser não: escolha B ou pular o dia"
     },
     {
-      "title": "Um idioma por sessão",
-      "text": "Não misturar pré-leitura em PT e inglês nos mesmos 10–15 min"
+      "title": "Inglês todo dia",
+      "text": "3–5 min diários (música, hello/bye, 1 palavra da aula de sábado). Sábado e domingo: quando puder. Aula de sábado conta — em casa, só reforço leve se houver energia"
+    },
+    {
+      "title": "Bloco principal num idioma",
+      "text": "Não misturar pré-leitura em PT e inglês no mesmo bloco. O minutinho de EN fica separado (antes ou depois)"
     },
     {
       "title": "Começa fácil",
@@ -32,6 +36,11 @@
   ],
   "visaoGeral": [
     {
+      "slot": "Todo dia",
+      "foco": "Inglês curto (3–5 min)",
+      "calibrar": "Hello + 1 música ou 1–2 palavras da aula de sábado; fim de semana opcional"
+    },
+    {
       "slot": "Dia A",
       "foco": "Português (letras + sons)",
       "calibrar": "2–3 letras “já sei” → no máx. 1 letra nova"
@@ -43,8 +52,8 @@
     },
     {
       "slot": "Dia C",
-      "foco": "Inglês (só EN)",
-      "calibrar": "Música + fala; números EN dos que já conhece em PT"
+      "foco": "Inglês um pouco mais longo",
+      "calibrar": "8–10 min só EN (além do hábito diário) — música + fala + números conhecidos"
     },
     {
       "slot": "Dia D",
@@ -54,79 +63,100 @@
     {
       "slot": "Dia E",
       "foco": "Escolha da Criança / reforço",
-      "calibrar": "Repetir vitórias da semana"
+      "calibrar": "Repetir vitórias da semana + minutinho EN"
     },
     {
-      "slot": "Fim de semana",
-      "foco": "Livro em voz alta",
-      "calibrar": "Adulto lê; a Criança comenta figuras"
+      "slot": "Sábado",
+      "foco": "Aula de inglês + casa leve",
+      "calibrar": "Aula conta como EN do dia; em casa só se sobrar ânimo (hello + 1 palavra nova da aula)"
+    },
+    {
+      "slot": "Domingo",
+      "foco": "Livro + EN opcional",
+      "calibrar": "Livro em voz alta; 3–5 min EN quando puder"
     }
   ],
   "semana1": [
     {
       "dia": "Segunda",
       "foco": "Português — letras do nome",
-      "tempo": "10–12 min",
+      "tempo": "10–12 min + 3–5 min EN",
       "aquecer": "Criança escreve sozinha 1–2 letras que já sabe (ex.: B ou A).",
       "fazer": "Cartão do nome. Aponta as letras que já reconhece. Traçar no ar → mesa → copiar só as conhecidas. Se sobrar ânimo: 1 letra nova do nome (mostrar, nomear, traçar 2×).",
-      "naoFazer": "Pedir que leia o nome sob pressão; ditado longo.",
+      "ingles": "Hello! + 1 música curta (ou só “Good morning” + bye-bye). Repetir 1 palavra que veio da aula de sábado.",
+      "naoFazer": "Pedir que leia o nome sob pressão; ditado longo; misturar PT e EN no mesmo bloco.",
       "fechar": "“Essas letras você já manda muito bem!”"
     },
     {
       "dia": "Terça",
       "foco": "Matemática — números + quantidade",
-      "tempo": "10 min",
+      "tempo": "10 min + 3–5 min EN",
       "aquecer": "Escrever 1–2 números que já sabe.",
       "fazer": "Contar 5 objetos. “Me dá 3”. Dois montinhos: quem tem mais? Opcional: traçar um número conhecido.",
-      "naoFazer": "Somar/subtrair no papel; “quanto é 2+2?”.",
+      "ingles": "Contar 1–5 em inglês com os mesmos objetos (one, two, three…). “How many?”",
+      "naoFazer": "Somar/subtrair no papel; “quanto é 2+2?”; traduzir cada frase em PT no meio do minutinho EN.",
       "fechar": "Ela escolhe quantos objetos guardar."
     },
     {
       "dia": "Quarta",
-      "foco": "Inglês — oral + números",
-      "tempo": "8–10 min · somente inglês",
+      "foco": "Inglês — oral + números (dia mais longo)",
+      "tempo": "8–12 min · somente inglês",
       "aquecer": "“Good morning!”",
-      "fazer": "Uma música (alphabet ou numbers). Contar em EN só até um número que ela já usa em PT. Apontar letra conhecida no cartão do nome (“B”).",
+      "fazer": "Uma música (alphabet ou numbers). Contar em EN só até um número que ela já usa em PT. Apontar letra conhecida no cartão do nome (“B”). Revisar 1–2 palavras da aula de sábado.",
+      "ingles": "Neste dia o bloco principal já é inglês — não precisa de um segundo bloco EN.",
       "naoFazer": "Folha de leitura EN; misturar explicações longas em PT.",
       "fechar": "“Bye-bye!” / high five."
     },
     {
       "dia": "Quinta",
       "foco": "Português (sons) + memória",
-      "tempo": "12 min",
+      "tempo": "12 min + 3–5 min EN",
       "aquecer": "Nomear 2 letras “já sei”.",
       "fazer": "Rimas (gato/pato). Palmas em ca-sa. Memória com 3 pares. Opcional: 1 letra nova só para olhar e nomear.",
+      "ingles": "Colors ou body: apontar 2–3 cores/partes do corpo em EN (red, blue / head, hand). Música curta se quiser.",
       "naoFazer": "Forçar escrever a letra nova se ela não quiser.",
       "fechar": "Elogiar a espera da vez."
     },
     {
       "dia": "Sexta",
       "foco": "Formas/padrões ou Mundo",
-      "tempo": "≤ 10 min",
+      "tempo": "≤ 10 min + 3–5 min EN",
       "aquecer": "Calendário: hoje é ___",
       "fazer": "Formas: caça a círculos/quadrados ou padrão AB com tampinhas. Ou Mundo: clima no calendário, olhar a Lua, ou massinha Sol + Terra.",
+      "ingles": "Weather ou feelings: “sunny / rainy” ou “happy / sleepy”. Hello + bye.",
       "naoFazer": "Fazer os dois blocos longos no mesmo dia se estiver cansada.",
       "fechar": "Guardar pasta — missão cumprida."
     },
     {
-      "dia": "Sábado ou domingo",
-      "foco": "Leve — escolha da Criança",
-      "tempo": "10 min",
+      "dia": "Sábado",
+      "foco": "Aula de inglês + casa leve (se der)",
+      "tempo": "Aula + opcional 3–5 min em casa",
+      "aquecer": "Ir à aula com energia — isso já é o inglês do dia.",
+      "fazer": "Depois da aula, só se ela quiser: livro em PT ou brincadeira livre. Sem cobrança de “lição extra”.",
+      "ingles": "Em casa (opcional): repetir 1 palavra ou gesto novo da aula + “Good job!” / high five. Se estiver cansada, pular — a aula bastou.",
+      "naoFazer": "Empilhar mais uma sessão longa de EN no mesmo dia da aula.",
+      "fechar": "Celebrar a aula: “Você praticou inglês hoje!”"
+    },
+    {
+      "dia": "Domingo",
+      "foco": "Leve — escolha da Criança + EN se puder",
+      "tempo": "10 min + EN opcional 3–5 min",
       "aquecer": "Deixar a Criança escolher a favorita da semana.",
       "fazer": "Repetir favorita, festa do “já sei”, ou massinha Sol + Terra + Lua. Livro em PT em voz alta.",
-      "naoFazer": "Cobrar leitura do texto.",
+      "ingles": "Quando puder: 1 música EN ou “Hello / Good night” + 1 palavra da semana. Ok pular se o domingo for de descanso.",
+      "naoFazer": "Cobrar leitura do texto; transformar o domingo em “aula 2”.",
       "fechar": "Ela “lê” as figuras; adulto lê o texto."
     }
   ],
   "modelo": {
     "titulo": "Semanas 2+ — modelo reutilizável",
-    "texto": "Mesmos slots (A–E). Sempre: conhecido primeiro → no máximo 1 novidade.",
+    "texto": "Mesmos slots (A–E) + inglês curto todos os dias. Sempre: conhecido primeiro → no máximo 1 novidade. Sábado: aula de inglês; domingo: EN opcional.",
     "rodizio": [
       {
         "semana": "2",
         "a": "Letras “já sei” do nome + achar no cartão",
         "b": "Contar até onde for fácil; “me dá N”",
-        "c": "Mesma música + What’s this? (3 objetos)",
+        "c": "Mesma música + What’s this? (3 objetos) + 1 palavra da aula",
         "d": "Estação / roupa do ursinho"
       },
       {
@@ -140,7 +170,7 @@
         "semana": "4",
         "a": "Som inicial com palavras da letra “já sei”",
         "b": "Padrão AB; mais/menos/igual",
-        "c": "Hello + Head, shoulders…",
+        "c": "Hello + Head, shoulders… + revisão da aula",
         "d": "Bailado dos planetas (adulto = Sol)"
       },
       {
@@ -155,6 +185,7 @@
       "Calendário (30 s)",
       "Vitória rápida — letra/número já sei (1–2 min)",
       "Atividade principal (7–10 min)",
+      "Inglês curto — 3–5 min (exceto quando o foco do dia já for EN ou sábado de aula)",
       "Fechar / pasta (1–2 min)"
     ]
   },
@@ -168,6 +199,7 @@
     "1 livro ilustrado PT",
     "Pasta “da Criança”",
     "Giz / lápis grosso",
-    "1 música EN (adulto junto)"
+    "1–2 músicas EN (adulto junto)",
+    "Lista rápida: palavras novas da aula de inglês de sábado"
   ]
 }
