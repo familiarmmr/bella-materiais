@@ -1,0 +1,454 @@
+{
+  "intro": {
+    "title": "Biblioteca de materiais",
+    "subtitle": "Curadoria prática para a Família R & M. Sessões curtas, lúdicas e sem pressão.",
+    "nivel": "Bella reconhece e escreve algumas letras e números — reforçar o conhecido e avançar no máximo 1 novidade por vez.",
+    "comoUsar": [
+      {
+        "label": "Duração",
+        "text": "10–15 minutos por sessão (pode ser 5 se estiver cansada)"
+      },
+      {
+        "label": "Frequência",
+        "text": "4–5 dias por semana; ok pular dia"
+      },
+      {
+        "label": "Tom",
+        "text": "Convite, não cobrança: “Vamos brincar de…?”"
+      },
+      {
+        "label": "Fim",
+        "text": "Pare no auge do interesse"
+      },
+      {
+        "label": "Papel do adulto",
+        "text": "Sentar junto, nomear o que ela faz, celebrar tentativa"
+      },
+      {
+        "label": "Progressão",
+        "text": "Começar pelo que ela já sabe; só avança 1 passinho quando estiver fácil"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "kumon",
+      "emoji": false,
+      "title": "Prática progressiva estilo Kumon",
+      "blurb": "Passos pequenos, pouco por dia, domínio antes de avançar — sem copiar material oficial.",
+      "items": [
+        {
+          "title": "Kumon Brasil — método e cursos",
+          "why": "Estrutura individualizada, hábito de estudo suave",
+          "age": "A partir do interesse",
+          "type": "Comercial",
+          "url": "https://www.kumon.com.br/",
+          "note": null
+        },
+        {
+          "title": "Material didático Kumon",
+          "why": "Passos pequenos, autoinstrução",
+          "age": "Pré-escolar+",
+          "type": "Comercial exclusivo",
+          "url": "https://www.kumon.com.br/metodo-kumon/material-didatico/",
+          "note": "Folhas oficiais não são para baixar/copiar"
+        },
+        {
+          "title": "Idade / início",
+          "why": "Orienta quando faz sentido começar",
+          "age": "~2–3+",
+          "type": "Informativo",
+          "url": "https://www.kumon.com.br/blog/existe-idade-certa-para-iniciar-os-estudos-no-kumon-1/",
+          "note": null
+        },
+        {
+          "title": "Matemática para crianças (blog)",
+          "why": "Ideias de como tornar números naturais",
+          "age": "Pré-escolar",
+          "type": "Grátis",
+          "url": "https://www.kumon.com.br/blog/matematica-para-criancas/",
+          "note": null
+        },
+        {
+          "title": "Traços e grafismos (caseiro)",
+          "why": "Prepara mão e olhar",
+          "age": "~3–5",
+          "type": "Grátis / caseiro",
+          "url": "https://aventuradosaber.pt/fichas/portugues-pre-escolar-os-meus-primeiros-tracos-grafismos-e-coordenacao-hyiyss",
+          "note": "3–5 linhas onduladas na A4 com giz grosso"
+        },
+        {
+          "title": "Números pontilhados 0–10",
+          "why": "Traçado + número–quantidade",
+          "age": "~4–5",
+          "type": "Grátis imprimir",
+          "url": "https://www.espacoprofessor.com/numeros-pontilhados-para-a-educacao-infantil/",
+          "note": "Uma folha/dia"
+        },
+        {
+          "title": "Educlub — números e quantidades",
+          "why": "Fichas para imprimir",
+          "age": "~4–5",
+          "type": "Grátis",
+          "url": "https://www.educlub.com.br/atividades/fichas-de-numeros-e-quantidades-para-imprimir",
+          "note": null
+        },
+        {
+          "title": "Contagem com objetos",
+          "why": "Numeracia concreta (BNCC EI03ET07)",
+          "age": "~4",
+          "type": "Caseiro",
+          "url": "https://bncc.dev/objetivo/EI03ET07/",
+          "note": "5 botões: quantos? me dá 3; 1 a mais"
+        }
+      ]
+    },
+    {
+      "id": "estimulo",
+      "title": "Estímulo cerebral / cognitivo",
+      "blurb": "Atenção, memória, lógica simples e coordenação motora fina.",
+      "items": [
+        {
+          "title": "Brincadeiras 4–5 anos",
+          "why": "Ideias de memória e atenção",
+          "age": "4–5",
+          "type": "Artigo",
+          "url": "https://desconectandoparacrescer.com.br/brincadeiras-criancas-4-5-anos/",
+          "note": "Começar com 6–8 cartas no jogo da memória"
+        },
+        {
+          "title": "Jogos educativos infantis",
+          "why": "Referências de jogos curtos",
+          "age": "4+",
+          "type": "Artigo",
+          "url": "https://www.superprof.com.br/blog/jogos-educativos-infantis/",
+          "note": null
+        },
+        {
+          "title": "Jogos 3–4 anos",
+          "why": "Formas, classificação, cores",
+          "age": "3–4",
+          "type": "Grátis",
+          "url": "https://atividadeskidsbr.com.br/jogos-3-4-anos.html",
+          "note": "Depois tampinhas por cor"
+        },
+        {
+          "title": "Ebook Fortaleza/NDI — motor fino",
+          "why": "Ideias de pinça e coordenação",
+          "age": "4+",
+          "type": "Grátis PDF",
+          "url": "https://saude.fortaleza.ce.gov.br/images/NDI/Ebook_compressed.pdf",
+          "note": "Grãos na garrafa / pinça com supervisão"
+        },
+        {
+          "title": "Jogos educativos online (com critério)",
+          "why": "Tela curta + depois no real",
+          "age": "4",
+          "type": "Grátis online",
+          "url": "https://filhosepoesia.com/jogos-infantil-educativo-4-anos-online-gratis/",
+          "note": "Adulto junto; ≤ 10–15 min"
+        }
+      ]
+    },
+    {
+      "id": "portugues",
+      "title": "Português / pré-alfabetização",
+      "blurb": "Rimas, sílabas, nome próprio e histórias — depois traçado com prazer.",
+      "items": [
+        {
+          "title": "18 jogos de consciência fonológica",
+          "why": "Rimas e sons",
+          "age": "4–5",
+          "type": "Guia",
+          "url": "https://dyslexiasteps.com/pt-br/guias/atividades-de-consciencia-fonologica",
+          "note": "Pingue-pongue de rimas"
+        },
+        {
+          "title": "Atividades de consciência fonológica",
+          "why": "Palmas nas sílabas",
+          "age": "4–5",
+          "type": "Artigo",
+          "url": "https://oficinadainteligencia.com.br/atividades-de-consciencia-fonologica-para-criancas-pre-escolares/",
+          "note": "Be-lla"
+        },
+        {
+          "title": "iPsy — consciência fonológica",
+          "why": "Mais ideias orais",
+          "age": "4–6",
+          "type": "Artigo",
+          "url": "https://ipsybr.com.br/consciencia-fonologica-atividades/",
+          "note": null
+        },
+        {
+          "title": "Nova Escola — nome próprio",
+          "why": "Primeira palavra forte: BELLA",
+          "age": "4–5",
+          "type": "Atividades",
+          "url": "https://novaescola.org.br/arquivo/nome-proprio/atividades.shtml",
+          "note": "Ar → areia → lápis"
+        },
+        {
+          "title": "iEducação — alfabetização",
+          "why": "Alfabeto pontilhado / vogais",
+          "age": "4–5",
+          "type": "Imprimir",
+          "url": "https://ieducacao.com/atividades-de-alfabetizacao/",
+          "note": "Poucas letras do nome"
+        },
+        {
+          "title": "Mestre do Saber — 4 anos",
+          "why": "Atividades leves",
+          "age": "4",
+          "type": "Grátis",
+          "url": "https://www.mestredosaber.com.br/atividades-de-alfabetizacao-4-anos/",
+          "note": null
+        },
+        {
+          "title": "Happy Atividades — pacote temático",
+          "why": "Progressão leve 4–6",
+          "age": "4–6",
+          "type": "Grátis",
+          "url": "https://happyatividades.com/atividades-alfabetizacao-dia-das-criancas-imprimir-gratis/",
+          "note": "Contornar/pintar + ler juntos"
+        },
+        {
+          "title": "Escola Games — Alfabeto de sabão",
+          "why": "Contato lúdico com alfabeto",
+          "age": "Pré",
+          "type": "Grátis online",
+          "url": "https://www.escolagames.com.br/jogos/alfabeto-de-sabao/ficha",
+          "note": "Adulto junto"
+        }
+      ]
+    },
+    {
+      "id": "ingles",
+      "title": "Inglês",
+      "blurb": "Exposição feliz: músicas, cumprimentos, números 1–10. Sem cobrança de leitura independente.",
+      "items": [
+        {
+          "title": "British Council — Alphabet song",
+          "why": "Ordem das letras + pronúncia divertida",
+          "age": "3–5",
+          "type": "Grátis",
+          "url": "https://learnenglishkids.britishcouncil.org/listen-watch/songs/alphabet-song",
+          "note": null
+        },
+        {
+          "title": "British Council — Alphabet topic",
+          "why": "Mais músicas e atividades",
+          "age": "3–5",
+          "type": "Grátis",
+          "url": "https://learnenglishkids.britishcouncil.org/category/topics/alphabet",
+          "note": null
+        },
+        {
+          "title": "Starfall ABCs",
+          "why": "Letra + som em exploração livre",
+          "age": "Pré-K",
+          "type": "Freemium",
+          "url": "https://www.starfall.com/h/abcs/",
+          "note": "Adulto junto"
+        },
+        {
+          "title": "Sesame Street",
+          "why": "Letras e sons lúdicos",
+          "age": "3–5",
+          "type": "Grátis",
+          "url": "https://www.sesamestreet.org/",
+          "note": "1 vídeo/jogo curto"
+        },
+        {
+          "title": "Super Simple Songs",
+          "why": "Vocabulário lento e repetitivo",
+          "age": "4–5",
+          "type": "Grátis+",
+          "url": "https://supersimple.com/",
+          "note": "Animals, colors, body, numbers"
+        },
+        {
+          "title": "Super Simple — faixa 4–5",
+          "why": "Conteúdo por idade",
+          "age": "4–5",
+          "type": "Grátis",
+          "url": "https://www.supersimplelessons.com/age/4-5",
+          "note": null
+        },
+        {
+          "title": "British Council — Songs",
+          "why": "Hello e ações",
+          "age": "4+",
+          "type": "Grátis",
+          "url": "https://learnenglishkids.britishcouncil.org/listen-watch/songs",
+          "note": "Hello, hello… / If you're happy"
+        },
+        {
+          "title": "Counting (Super Simple)",
+          "why": "1–10 com ritmo",
+          "age": "3–5",
+          "type": "Grátis",
+          "url": "https://supersimple.com/content-topic/counting/",
+          "note": null
+        },
+        {
+          "title": "British Council — Numbers",
+          "why": "Contagem + printables",
+          "age": "4+",
+          "type": "Grátis",
+          "url": "https://learnenglishkids.britishcouncil.org/category/topics/numbers",
+          "note": null
+        },
+        {
+          "title": "PBS KIDS Read!",
+          "why": "Guias para falar, ouvir e ler juntos",
+          "age": "2–5",
+          "type": "Grátis",
+          "url": "https://www.pbs.org/parents/page/read",
+          "note": null
+        },
+        {
+          "title": "LearnEnglish Kids — Print and make",
+          "why": "Flashcards e colorir",
+          "age": "Pré",
+          "type": "Grátis",
+          "url": "https://learnenglishkids.britishcouncil.org/",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "matematica",
+      "title": "Matemática inicial",
+      "blurb": "Contagem, quantidade, formas e padrões — no concreto antes do papel.",
+      "items": [
+        {
+          "title": "BNCC EI03ET07",
+          "why": "Número ↔ quantidade real",
+          "age": "4",
+          "type": "Referência",
+          "url": "https://bncc.dev/objetivo/EI03ET07/",
+          "note": "Escadas, pratos, dedos"
+        },
+        {
+          "title": "Via Carreira — 32 atividades",
+          "why": "1–5, correspondência, sequência",
+          "age": "3–5",
+          "type": "Grátis PDF",
+          "url": "https://viacarreira.com/atividades-de-matematica-para-educacao-infantil/",
+          "note": null
+        },
+        {
+          "title": "Crayonbird — pré-escola 4 anos",
+          "why": "Contar até 5/10, comparar grupos",
+          "age": "4–5",
+          "type": "Freemium",
+          "url": "https://crayonbird.com/pt/worksheets/pre-escola-4-anos/matematica",
+          "note": null
+        },
+        {
+          "title": "Educlub — número e quantidade",
+          "why": "Traçar + contar + pintar",
+          "age": "4–5",
+          "type": "Grátis",
+          "url": "https://www.educlub.com.br/atividades/fichas-de-numeros-e-quantidades-para-imprimir",
+          "note": null
+        },
+        {
+          "title": "Educlub — formas geométricas",
+          "why": "Pacote para imprimir (1–2 páginas)",
+          "age": "EI",
+          "type": "Grátis",
+          "url": "https://www.educlub.com.br/atividades/formas-geometricas-na-educacao-infantil-50-atividades-educativas/download",
+          "note": null
+        },
+        {
+          "title": "Só Escola — ideias BNCC 4 anos",
+          "why": "Roteiros lúdicos",
+          "age": "4",
+          "type": "Artigo",
+          "url": "https://atividades.soescola.com/glossario/15-ideias-de-atividades-bncc-matematica-educacao-infantil-4-anos-3/",
+          "note": "Priorizar concreto"
+        },
+        {
+          "title": "Educador — matemática EI",
+          "why": "Caderno com variedade",
+          "age": "EI",
+          "type": "Grátis",
+          "url": "https://educador.com.br/atividades-de-matematica-para-educacao-infantil/",
+          "note": null
+        },
+        {
+          "title": "BNCC PDF (MEC)",
+          "why": "Campo Espaços, tempos, quantidades…",
+          "age": "EI",
+          "type": "Oficial",
+          "url": "https://basenacionalcomum.mec.gov.br/images/BNCC_20dez_site.pdf",
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "mundo",
+      "title": "Conhecimento do mundo",
+      "blurb": "Dias, clima, natureza, Sol e Lua — observar, nomear e brincar.",
+      "items": [
+        {
+          "title": "Calendário da educação infantil",
+          "why": "Ritual matinal: hoje é ___",
+          "age": "4",
+          "type": "Imprimir",
+          "url": "https://educador.com.br/calendario-da-educacao-infantil-2025/",
+          "note": null
+        },
+        {
+          "title": "PDF Via Carreira 4 anos",
+          "why": "Dias, estações e natureza",
+          "age": "~4",
+          "type": "Grátis PDF",
+          "url": "https://viacarreira.com/wp-content/uploads/2024/09/atividades-educacao-infantil-4-anos.pdf",
+          "note": null
+        },
+        {
+          "title": "20 atividades — estações",
+          "why": "Características de cada estação",
+          "age": "4–6",
+          "type": "Grátis",
+          "url": "https://educador.com.br/atividades-estacoes-do-ano/",
+          "note": "Imagens + conversa"
+        },
+        {
+          "title": "Robi Paint — espaço",
+          "why": "Ideias sobre céu e sistema solar",
+          "age": "3–5",
+          "type": "Artigo",
+          "url": "https://robipaint.com.br/blog/atividades-sobre-o-espaco-e-o-sistema-solar-para-criancas/",
+          "note": "Sol, Terra, Lua primeiro"
+        },
+        {
+          "title": "Mamae no OB — maquetes",
+          "why": "Massinha / planetas simples",
+          "age": "4–5",
+          "type": "Artigo",
+          "url": "https://mamaenoob.com.br/3-ideias-de-maquete-sobre-o-sistema-solar-simples-e-faceis/",
+          "note": null
+        },
+        {
+          "title": "NASA Traveler — preschool",
+          "why": "Printables espaciais",
+          "age": "Pré",
+          "type": "Grátis EN",
+          "url": "https://science.nasa.gov/universe/fun-exploring-the-universe/preschool-activities-with-nasas-traveler/",
+          "note": "Adulto traduz/conversa em PT"
+        },
+        {
+          "title": "NASA Space Place — Planets",
+          "why": "Páginas e crafts",
+          "age": "Kids",
+          "type": "Grátis EN",
+          "url": "https://spaceplace.nasa.gov/menu/planets/",
+          "note": null
+        }
+      ]
+    }
+  ]
+}
