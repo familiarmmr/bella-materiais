@@ -1,6 +1,6 @@
-# Bella · Materiais
+# Criança · Materiais
 
-Site partilhável da biblioteca e rotina de desenvolvimento da Bella (Família R & M / bellapricess).
+Site partilhável da biblioteca e rotina de desenvolvimento da Criança (Família).
 
 ## Local
 
@@ -13,7 +13,7 @@ Abra `http://127.0.0.1:8765`.
 
 ## Páginas
 
-- **Home** — marca Bella + CTA
+- **Home** — marca Criança + CTA
 - **Biblioteca** — seções Kumon-style, estímulo, PT, EN, math, mundo
 - **Rotina** — Semana 1 e modelo semanal
 - **Downloads** — Markdown + checklist imprimível da Semana 1

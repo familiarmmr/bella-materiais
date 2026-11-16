@@ -1,14 +1,14 @@
-# Rotina semanal em casa — Bella (~4 anos)
+# Rotina semanal em casa — Criança (~4 anos)
 
-Plano prático para a Família R & M. Sessões curtas, lúdicas, sem pressão — para usar **hoje**.
+Plano prático para a Família. Sessões curtas, lúdicas, sem pressão — para usar **hoje**.
 
-Materiais e links detalhados: [biblioteca-materiais-bella.md](./biblioteca-materiais-bella.md).
+Materiais e links detalhados: [biblioteca-materiais.md](./biblioteca-materiais.md).
 
 ---
 
-## Nível da Bella (como calibrar)
+## Nível da Criança (como calibrar)
 
-Bella **já reconhece e escreve algumas letras e números**, ainda em **aprendizado inicial**.
+Criança **já reconhece e escreve algumas letras e números**, ainda em **aprendizado inicial**.
 
 | Sim | Ainda não |
 | --- | --- |
@@ -19,7 +19,7 @@ Bella **já reconhece e escreve algumas letras e números**, ainda em **aprendiz
 
 **Regra do passinho:** cada sessão começa com algo que ela **já consegue** (1–2 min de vitória) → depois no máximo **um** desafio pequenino → volta ao fácil se emperrar.
 
-**Cartão “já sei” (façam juntos, 5 min):** listar letras e números que Bella nomeia ou escreve hoje. Usar essa lista toda semana. Atualizar quando algo novo ficar fácil.
+**Cartão “já sei” (façam juntos, 5 min):** listar letras e números que a Criança nomeia ou escreve hoje. Usar essa lista toda semana. Atualizar quando algo novo ficar fácil.
 
 ---
 
@@ -39,7 +39,7 @@ Bella **já reconhece e escreve algumas letras e números**, ainda em **aprendiz
 | **Um novo só** | No máximo **1** letra **ou** **1** número novo na sessão (nunca os dois “novos” juntos) |
 | **Ritual de abertura** | Calendário: “Hoje é ___” (30 s, em português) |
 | **Corpo antes da mesa** | Se agitada: 2–3 min pular / engatinhar |
-| **Fim feliz** | Pasta da Bella: “missão cumprida” |
+| **Fim feliz** | Pasta da Criança: “missão cumprida” |
 | **Ok pular** | Dia caótico = descanso conta como cuidado |
 
 **Horário:** o mesmo cantinho do dia. Consistência > perfeição.
@@ -54,8 +54,8 @@ Bella **já reconhece e escreve algumas letras e números**, ainda em **aprendiz
 | **Dia B** | Matemática (números + quantidade) | Números que já escreve + contar objetos; **sem** continhas |
 | **Dia C** | Inglês (só EN) | Música + fala; números EN dos que já conhece em PT |
 | **Dia D** | Mundo + motor/cognição leve | Calendário, natureza ou Sol/Lua + memória/massinha |
-| **Dia E** (opcional) | Escolha da Bella / reforço | Repetir vitórias da semana (letras/números conhecidos) |
-| **Fim de semana** | Livro em voz alta | Adulto lê; Bella comenta figuras — **sem** cobrança de ler |
+| **Dia E** (opcional) | Escolha da Criança / reforço | Repetir vitórias da semana (letras/números conhecidos) |
+| **Fim de semana** | Livro em voz alta | Adulto lê; a Criança comenta figuras — **sem** cobrança de ler |
 
 Se só der **4 dias:** A → B → C → D.
 
@@ -70,8 +70,8 @@ Antes de segunda: façam o cartão **“já sei”** (letras + números) e a lis
 | | |
 | --- | --- |
 | **Tempo** | 10–12 min |
-| **Aquecer (fácil)** | Bella escreve **sozinha** 1–2 letras que já sabe (ex.: B ou A). Elogiar. |
-| **Fazer** | Cartão **BELLA**. Ela aponta as letras que já reconhece. Juntas: traçar no ar → na mesa → copiar **só as letras conhecidas** do nome. Se sobrar ânimo: apresentar **1** letra do nome que ainda não domina (mostrar, nomear, traçar 2× juntas) — sem exigir perfeição. |
+| **Aquecer (fácil)** | Criança escreve **sozinha** 1–2 letras que já sabe (ex.: B ou A). Elogiar. |
+| **Fazer** | Cartão do **nome**. Ela aponta as letras que já reconhece. Juntas: traçar no ar → na mesa → copiar **só as letras conhecidas** do nome. Se sobrar ânimo: apresentar **1** letra do nome que ainda não domina (mostrar, nomear, traçar 2× juntas) — sem exigir perfeição. |
 | **Não fazer** | Pedir que leia o nome como palavra “de cor” sob pressão; ditado longo. |
 | **Fechar** | “Essas letras você já manda muito bem!” |
 | **Biblioteca** | §3 Nome próprio |
@@ -81,7 +81,7 @@ Antes de segunda: façam o cartão **“já sei”** (letras + números) e a lis
 | | |
 | --- | --- |
 | **Tempo** | 10 min |
-| **Aquecer** | Bella escreve 1–2 números que já sabe. |
+| **Aquecer** | Criança escreve 1–2 números que já sabe. |
 | **Fazer** | Contar **5** objetos. Pedir: “Me dá **3**” (ou outro número que ela já reconhece). Dois montinhos: “Quem tem **mais**?” Opcional: traçar **um** número conhecido em pontilhado feito à mão. |
 | **Não fazer** | Somar/subtrair no papel; “quanto é 2+2?”. |
 | **Fechar** | Ela escolhe quantos objetos guardar. |
@@ -92,7 +92,7 @@ Antes de segunda: façam o cartão **“já sei”** (letras + números) e a lis
 | | |
 | --- | --- |
 | **Tempo** | 8–10 min · **somente inglês** |
-| **Fazer** | “Good morning, Bella!” Uma música (alphabet **ou** numbers). Contar em EN só até um número que ela já usa em PT (ex.: 1–5). Se quiser letra: apontar no cartão BELLA a letra que ela já sabe e dizer o nome em inglês (“B”) — **sem** lição de fonética. |
+| **Fazer** | “Good morning!” Uma música (alphabet **ou** numbers). Contar em EN só até um número que ela já usa em PT (ex.: 1–5). Se quiser letra: apontar no cartão do nome a letra que ela já sabe e dizer o nome em inglês (“B”) — **sem** lição de fonética. |
 | **Não fazer** | Folha de leitura EN; misturar explicações longas em PT no meio da sessão. |
 | **Fechar** | “Bye-bye!” / high five. |
 | **Biblioteca** | §4 Inglês |
@@ -103,7 +103,7 @@ Antes de segunda: façam o cartão **“já sei”** (letras + números) e a lis
 | --- | --- |
 | **Tempo** | 12 min |
 | **Aquecer** | Nomear 2 letras “já sei”. |
-| **Fazer** | Rimas (“gato / pato — rimam?”). Palmas em **Be-lla**. Memória com **3 pares**. Se fácil: no fim, 1 letra nova do nome **só** para olhar e repetir o nome da letra (não precisa escrever ainda). |
+| **Fazer** | Rimas (“gato / pato — rimam?”). Palmas em **ca-sa**. Memória com **3 pares**. Se fácil: no fim, 1 letra nova do nome **só** para olhar e repetir o nome da letra (não precisa escrever ainda). |
 | **Fechar** | Elogiar a espera da vez. |
 | **Biblioteca** | §3 Fonologia · §2 Memória |
 
@@ -117,7 +117,7 @@ Escolha **um** (cada bloco ≤ 10 min).
 
 ### Sábado ou domingo (leve)
 
-Escolha da Bella: repetir a favorita **ou** escrever no ar/quadro as letras e números **já sei** (festa do conhecido) **ou** massinha Sol + Terra + Lua. Livro em PT em voz alta — ela “lê” as figuras, adulto lê o texto.
+Escolha da Criança: repetir a favorita **ou** escrever no ar/quadro as letras e números **já sei** (festa do conhecido) **ou** massinha Sol + Terra + Lua. Livro em PT em voz alta — ela “lê” as figuras, adulto lê o texto.
 
 ---
 
@@ -128,7 +128,7 @@ Mesmos slots (A–E). Sempre: **conhecido primeiro → no máx. 1 novidade**.
 ### Como escolher a “novidade” da semana
 
 1. Olhar o cartão **“já sei”**.  
-2. Português: próxima letra do nome BELLA que ainda não está firme **ou** letra que aparece muito no dia a dia (M, P, S…).  
+2. Português: próxima letra do nome que ainda não está firme **ou** letra que aparece muito no dia a dia (M, P, S…).  
 3. Matemática: próximo número depois do maior que ela escreve com confiança (se escreve até 3, o novo é o 4 — não pular para o 9).  
 4. Se a novidade da semana anterior **ainda** não estiver fácil: **repetir** em vez de avançar.
 
@@ -165,14 +165,14 @@ Mesmos slots (A–E). Sempre: **conhecido primeiro → no máx. 1 novidade**.
 
 ### Separar / fazer
 
-- [ ] Cartão **“já sei”** (letras e números que Bella nomeia/escreve hoje)
-- [ ] Cartão grande **BELLA**
+- [ ] Cartão **“já sei”** (letras e números que a Criança nomeia/escreve hoje)
+- [ ] Cartão grande com o **nome da Criança**
 - [ ] Calendário de parede + clip do dia
 - [ ] 8–10 objetos para contar
 - [ ] Tampinhas em 2 cores
 - [ ] Massinha
 - [ ] 1 livro ilustrado PT
-- [ ] Pasta “da Bella”
+- [ ] Pasta “da Criança”
 - [ ] Giz / lápis grosso
 - [ ] 1 música EN (adulto junto)
 
@@ -188,7 +188,7 @@ Mesmos slots (A–E). Sempre: **conhecido primeiro → no máx. 1 novidade**.
 
 ---
 
-## Se Bella estiver cansada ou resistir
+## Se a Criança estiver cansada ou resistir
 
 | Situação | O que fazer |
 | --- | --- |
@@ -217,10 +217,10 @@ Sinais de **parar:** choro, empurrar material, irritação. Celebrem o que já f
 
 ## Onde aprofundar
 
-→ [biblioteca-materiais-bella.md](./biblioteca-materiais-bella.md)
+→ [biblioteca-materiais.md](./biblioteca-materiais.md)
 
 Esta rotina é o **mapa**; a biblioteca é a **mochila**.
 
 ---
 
-*Project bellapricess — Família R & M. Calibrada ao nível atual da Bella (algumas letras/números; aprendizado inicial).*
+*Project — Família. Calibrada ao nível atual da Criança (algumas letras/números; aprendizado inicial).*

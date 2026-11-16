@@ -2,7 +2,7 @@
   "intro": {
     "title": "Rotina semanal em casa",
     "tagline": "4–5 dias · 10–15 min · reforçar o conhecido · um novidade por vez · parar enquanto está gostoso.",
-    "nivel": "Bella já reconhece e escreve algumas letras e números, ainda em aprendizado inicial."
+    "nivel": "Criança já reconhece e escreve algumas letras e números, ainda em aprendizado inicial."
   },
   "regras": [
     {
@@ -27,7 +27,7 @@
     },
     {
       "title": "Fim feliz",
-      "text": "Pasta da Bella: “missão cumprida”"
+      "text": "Pasta da Criança: “missão cumprida”"
     }
   ],
   "visaoGeral": [
@@ -53,13 +53,13 @@
     },
     {
       "slot": "Dia E",
-      "foco": "Escolha da Bella / reforço",
+      "foco": "Escolha da Criança / reforço",
       "calibrar": "Repetir vitórias da semana"
     },
     {
       "slot": "Fim de semana",
       "foco": "Livro em voz alta",
-      "calibrar": "Adulto lê; Bella comenta figuras"
+      "calibrar": "Adulto lê; a Criança comenta figuras"
     }
   ],
   "semana1": [
@@ -67,8 +67,8 @@
       "dia": "Segunda",
       "foco": "Português — letras do nome",
       "tempo": "10–12 min",
-      "aquecer": "Bella escreve sozinha 1–2 letras que já sabe (ex.: B ou A).",
-      "fazer": "Cartão BELLA. Aponta as letras que já reconhece. Traçar no ar → mesa → copiar só as conhecidas. Se sobrar ânimo: 1 letra nova do nome (mostrar, nomear, traçar 2×).",
+      "aquecer": "Criança escreve sozinha 1–2 letras que já sabe (ex.: B ou A).",
+      "fazer": "Cartão do nome. Aponta as letras que já reconhece. Traçar no ar → mesa → copiar só as conhecidas. Se sobrar ânimo: 1 letra nova do nome (mostrar, nomear, traçar 2×).",
       "naoFazer": "Pedir que leia o nome sob pressão; ditado longo.",
       "fechar": "“Essas letras você já manda muito bem!”"
     },
@@ -85,8 +85,8 @@
       "dia": "Quarta",
       "foco": "Inglês — oral + números",
       "tempo": "8–10 min · somente inglês",
-      "aquecer": "“Good morning, Bella!”",
-      "fazer": "Uma música (alphabet ou numbers). Contar em EN só até um número que ela já usa em PT. Apontar letra conhecida no cartão BELLA (“B”).",
+      "aquecer": "“Good morning!”",
+      "fazer": "Uma música (alphabet ou numbers). Contar em EN só até um número que ela já usa em PT. Apontar letra conhecida no cartão do nome (“B”).",
       "naoFazer": "Folha de leitura EN; misturar explicações longas em PT.",
       "fechar": "“Bye-bye!” / high five."
     },
@@ -95,7 +95,7 @@
       "foco": "Português (sons) + memória",
       "tempo": "12 min",
       "aquecer": "Nomear 2 letras “já sei”.",
-      "fazer": "Rimas (gato/pato). Palmas em Be-lla. Memória com 3 pares. Opcional: 1 letra nova só para olhar e nomear.",
+      "fazer": "Rimas (gato/pato). Palmas em ca-sa. Memória com 3 pares. Opcional: 1 letra nova só para olhar e nomear.",
       "naoFazer": "Forçar escrever a letra nova se ela não quiser.",
       "fechar": "Elogiar a espera da vez."
     },
@@ -110,9 +110,9 @@
     },
     {
       "dia": "Sábado ou domingo",
-      "foco": "Leve — escolha da Bella",
+      "foco": "Leve — escolha da Criança",
       "tempo": "10 min",
-      "aquecer": "Deixar Bella escolher a favorita da semana.",
+      "aquecer": "Deixar a Criança escolher a favorita da semana.",
       "fazer": "Repetir favorita, festa do “já sei”, ou massinha Sol + Terra + Lua. Livro em PT em voz alta.",
       "naoFazer": "Cobrar leitura do texto.",
       "fechar": "Ela “lê” as figuras; adulto lê o texto."
@@ -160,13 +160,13 @@
   },
   "materiais": [
     "Cartão “já sei” (letras e números de hoje)",
-    "Cartão grande BELLA",
+    "Cartão grande com o nome da Criança",
     "Calendário de parede + clip do dia",
     "8–10 objetos para contar",
     "Tampinhas em 2 cores",
     "Massinha",
     "1 livro ilustrado PT",
-    "Pasta “da Bella”",
+    "Pasta “da Criança”",
     "Giz / lápis grosso",
     "1 música EN (adulto junto)"
   ]

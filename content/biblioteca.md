@@ -1,12 +1,12 @@
-# Biblioteca de materiais — Bella (~4 anos)
+# Biblioteca de materiais — Criança (~4 anos)
 
-Curadoria prática para a Família R & M usar em casa. Foco: prática progressiva (estilo Kumon), estímulo cognitivo, pré-alfabetização em português, **inglês**, **matemática inicial** e **conhecimento do mundo** — sempre em sessões curtas, lúdicas e sem pressão.
+Curadoria prática para a Família usar em casa. Foco: prática progressiva (estilo Kumon), estímulo cognitivo, pré-alfabetização em português, **inglês**, **matemática inicial** e **conhecimento do mundo** — sempre em sessões curtas, lúdicas e sem pressão.
 
 **Comunicação com a família:** português (Brasil).  
 **Materiais:** PT + EN + math + mundo.  
 **Princípio:** brincar + repetir um pouquinho > “estudar” muito.
 
-**Nível atual da Bella:** reconhece e escreve **algumas** letras e números; ainda em aprendizado inicial. **Calibrar:** reforçar o conhecido → no máximo **1** letra ou **1** número novo por vez. Sem expectativa de leitura independente nem contas formais. Rotina calibrada: [rotina-semanal-bella.md](./rotina-semanal-bella.md).
+**Nível atual da Criança:** reconhece e escreve **algumas** letras e números; ainda em aprendizado inicial. **Calibrar:** reforçar o conhecido → no máximo **1** letra ou **1** número novo por vez. Sem expectativa de leitura independente nem contas formais. Rotina calibrada: [rotina-semanal.md](./rotina-semanal.md).
 
 ---
 
@@ -14,7 +14,7 @@ Curadoria prática para a Família R & M usar em casa. Foco: prática progressiv
 
 | O quê | Sugestão |
 | --- | --- |
-| **Duração** | 10–15 minutos por sessão (pode ser 5 se Bella estiver cansada) |
+| **Duração** | 10–15 minutos por sessão (pode ser 5 se a Criança estiver cansada) |
 | **Frequência** | 4–5 dias por semana; ok pular dia |
 | **Tom** | Convite, não cobrança: “Vamos brincar de…?” |
 | **Fim** | Pare no auge do interesse — melhor sobrar vontade do que forçar |
@@ -48,7 +48,7 @@ O **Kumon** é um método comercial com material exclusivo, avaliação diagnós
 | Ficha | Por que ajuda | Como usar |
 | --- | --- | --- |
 | **[Números 0–5](./folha-numeros-0-5.html)** | Traçado + quantidade | Abrir → Imprimir / salvar PDF · ~10 min |
-| **[Letras do nome BELLA](./folha-letras-bella.html)** | Letras que ela já vê no nome | 10–12 min · no máximo 1 letra nova |
+| **[Letras do nome da Criança](./folha-letras-nome.html)** | Letras que ela já vê no nome | 10–12 min · no máximo 1 letra nova |
 | **[Traços e caminhos](./folha-tracos.html)** | Aquecimento da mão | 5–8 min com giz ou lápis grosso |
 
 ### Alternativas gratuitas / caseiras “inspiradas em Kumon”
@@ -56,8 +56,8 @@ O **Kumon** é um método comercial com material exclusivo, avaliação diagnós
 1. Começar **fácil demais** (sucesso garantido).  
 2. Poucas linhas / poucos itens por dia.  
 3. Mesmo tipo de tarefa por vários dias; depois um passo mínimo a mais.  
-4. Adulto modela uma vez; Bella tenta; elogio ao esforço.  
-5. Pasta “da Bella” — senso de progresso.
+4. Adulto modela uma vez; Criança tenta; elogio ao esforço.  
+5. Pasta “da Criança” — senso de progresso.
 
 | Item | Por que ajuda | Idade | Tipo | Como tentar em casa |
 | --- | --- | --- | --- | --- |
@@ -75,7 +75,7 @@ Foco aos ~4 anos: **atenção**, **memória**, **lógica simples**, **coordenaç
 | --- | --- | --- | --- | --- |
 | **Jogo da memória (poucas cartas)** | Memória visual, atenção, espera | 4–5 | Caseiro / comprado | Começar com **6–8 cartas**. [Desconectando para Crescer](https://desconectandoparacrescer.com.br/brincadeiras-criancas-4-5-anos/); [Superprof](https://www.superprof.com.br/blog/jogos-educativos-infantis/) |
 | **Memória de formas / classificação** | Cor, tamanho, forma | 3–4 | Grátis + real | [Atividades Kids BR](https://atividadeskidsbr.com.br/jogos-3-4-anos.html); depois tampinhas por cor |
-| **Massinha com “missões”** | Força de mão, planejamento | 4–5 | Caseiro | “Cobra comprida”; Bella inventa missão para o adulto |
+| **Massinha com “missões”** | Força de mão, planejamento | 4–5 | Caseiro | “Cobra comprida”; Criança inventa missão para o adulto |
 | **Grãos na garrafa / pinça** | Movimento de pinça | 4+ | Caseiro | Com supervisão. [Ebook Fortaleza/NDI](https://saude.fortaleza.ce.gov.br/images/NDI/Ebook_compressed.pdf) |
 | **Labirintos e caminhos** | Atenção + controle do lápis | 4–5 | Caseiro | Adulto desenha labirinto em 30 s |
 | **Blocos com desafio** | Espaço, lógica | 4–5 | Caseiro | “Torre mais alta que o ursinho” |
@@ -94,7 +94,7 @@ Aos ~4 anos, o ganho maior costuma ser **oral**: rimas, sílabas, nome próprio,
 | Item | Por que ajuda | Idade | Tipo | Como / fonte |
 | --- | --- | --- | --- | --- |
 | **Pingue-pongue de rimas** | Ouvir final igual | 4–5 | Caseiro 5 min | [Dyslexia Steps — 18 jogos](https://dyslexiasteps.com/pt-br/guias/atividades-de-consciencia-fonologica) |
-| **Palmas nas sílabas** | Segmentar bo-la, Be-lla | 4–5 | Caseiro | [Oficina da Inteligência](https://oficinadainteligencia.com.br/atividades-de-consciencia-fonologica-para-criancas-pre-escolares/); [iPsy](https://ipsybr.com.br/consciencia-fonologica-atividades/) |
+| **Palmas nas sílabas** | Segmentar bo-la, ca-sa | 4–5 | Caseiro | [Oficina da Inteligência](https://oficinadainteligencia.com.br/atividades-de-consciencia-fonologica-para-criancas-pre-escolares/); [iPsy](https://ipsybr.com.br/consciencia-fonologica-atividades/) |
 | **“Eu vejo algo que começa com…”** | Som inicial | 4–6 | Caseiro | Na sala: “…com /b/” |
 | **Cantigas e parlendas** | Rima + ritmo + vocabulário | 3–5 | Oral | Completar a rima; errar de propósito e rir |
 
@@ -102,7 +102,7 @@ Aos ~4 anos, o ganho maior costuma ser **oral**: rimas, sílabas, nome próprio,
 
 | Item | Por que ajuda | Idade | Tipo | Link / como |
 | --- | --- | --- | --- | --- |
-| **Nome próprio** | Primeira “palavra forte” | 4–5 | Caseiro | Cartão **BELLA**; ar → areia → lápis. [Nova Escola](https://novaescola.org.br/arquivo/nome-proprio/atividades.shtml) |
+| **Nome próprio** | Primeira “palavra forte” | 4–5 | Caseiro | Cartão do **nome**; ar → areia → lápis. [Nova Escola](https://novaescola.org.br/arquivo/nome-proprio/atividades.shtml) |
 | **Alfabeto pontilhado / vogais** | Forma da letra + motor fino | 4–5 | Imprimir grátis | Poucas letras (do nome). [iEducação](https://ieducacao.com/atividades-de-alfabetizacao/); [Mestre do Saber](https://www.mestredosaber.com.br/atividades-de-alfabetizacao-4-anos/) |
 | **Pacote temático 4–6 anos** | Progressão leve | 4–6 | Grátis | [Happy Atividades](https://happyatividades.com/atividades-alfabetizacao-dia-das-criancas-imprimir-gratis/) — com 4 anos: contornar/pintar + ler juntos |
 | **Escola Games** | Contato lúdico com alfabeto | Pré | Grátis online | [Escola Games](https://www.escolagames.com.br/); ex. [Alfabeto de sabão](https://www.escolagames.com.br/jogos/alfabeto-de-sabao/ficha) |
@@ -132,7 +132,7 @@ Aos ~4 anos, o ganho maior costuma ser **oral**: rimas, sílabas, nome próprio,
 | **Starfall ABCs** | Letra + som em exploração livre | Pré-K | Freemium (núcleo ABC grátis) | Adulto junto; clicar letras. [Starfall ABCs](https://www.starfall.com/h/abcs/); guia Pre-K: [teach.starfall.com](https://teach.starfall.com/guides/pre-k) |
 | **Sesame Street (letras / jogos)** | Contato lúdico com letras e sons | 3–5 | Grátis (site) | Escolher 1 vídeo/jogo curto. [sesamestreet.org](https://www.sesamestreet.org/) |
 | **Letter hunt em casa** | Associar letra a objetos | 4 | Caseiro | Cartão com **B**; achar “ball / book / banana” (ou misturar com itens reais e dizer o nome em EN) |
-| **Name in English** | Identidade + letras | 4 | Caseiro | Mostrar **BELLA** e soletrar devagar em inglês: “B-E-L-L-A” |
+| **Name in English** | Identidade + letras | 4 | Caseiro | Mostrar o cartão do nome e soletrar devagar em inglês: as letras do nome |
 
 ### Fala / oralidade (EN)
 
@@ -150,7 +150,7 @@ Aos ~4 anos, o ganho maior costuma ser **oral**: rimas, sílabas, nome próprio,
 | --- | --- | --- | --- | --- |
 | **Counting songs (Super Simple)** | 1–10 (depois 20) com ritmo | 3–5 | Grátis | [Counting topic](https://supersimple.com/content-topic/counting/) — *10 Little Dinosaurs*, *Counting Up To 20* |
 | **British Council — numbers songs** | Contagem cantada + printables | 4+ | Grátis | [Numbers](https://learnenglishkids.britishcouncil.org/category/topics/numbers); *Ten little aeroplanes*, *Dinosaur 1–10* |
-| **Count the snacks** | Número EN no real | 4 | Caseiro | “One, two, three crackers”; Bella repete |
+| **Count the snacks** | Número EN no real | 4 | Caseiro | “One, two, three crackers”; Criança repete |
 | **Dice / fingers** | 1–6 rápido | 4 | Caseiro | Dado: dizer o número em inglês juntos |
 
 ### Imprimíveis / extras (rótulo claro)
@@ -185,7 +185,7 @@ Aos ~4 anos: **contagem oral**, **quantidade**, **mais/menos**, **formas**, **pa
 | **Caça às formas em casa** | Nomear círculo, quadrado, triângulo, retângulo | 4 | Caseiro | “Ache 3 círculos” (prato, botão, roda) |
 | **Formas com massinha** | Construir a forma com as mãos | 4–5 | Caseiro | Rolinho → círculo; “snakes” → triângulo |
 | **Educlub — formas geométricas** | Pacote grande para imprimir | EI | Grátis / site | [Formas na EI](https://www.educlub.com.br/atividades/formas-geometricas-na-educacao-infantil-50-atividades-educativas/download) — usar **1–2 páginas** por vez |
-| **Sombras / encaixe** | Discriminar contorno | 4 | Caseiro | Recortar formas em cartolina; Bella casa com a sombra |
+| **Sombras / encaixe** | Discriminar contorno | 4 | Caseiro | Recortar formas em cartolina; Criança casa com a sombra |
 
 ### Padrões e comparação
 
@@ -204,7 +204,7 @@ Aos ~4 anos: **contagem oral**, **quantidade**, **mais/menos**, **formas**, **pa
 | Mesa | “Coloca **um** garfo para cada pessoa” |
 | Banho | Contar canecos de água; “cheio / vazio” |
 | Rua | Contar carros vermelhos; “estamos **perto** / **longe**” |
-| Cozinha | “Preciso de **2** ovos”; Bella traz |
+| Cozinha | “Preciso de **2** ovos”; Criança traz |
 | Brincar de lojinha | Trocar “moedas” de papel (só contar, sem troco difícil) |
 
 ---
@@ -220,7 +220,7 @@ Temas do quotidiano e ciência leve: **tempo (dias, meses, estações)**, **natu
 | **Calendário da parede** | Sequência temporal no real | 4 | Caseiro / imprimir | Cada manhã: “Hoje é ___”. Mover um clip no dia. Kit: [Educador — calendário EI](https://educador.com.br/calendario-da-educacao-infantil-2025/) |
 | **Canção dos dias da semana** | Memória por ritmo | 4 | Oral | Cantar na ordem; apontar no calendário |
 | **Caderno Via Carreira 4 anos** | Dias + estações + natureza em folhas | ~4 | Grátis PDF | [PDF 4 anos](https://viacarreira.com/wp-content/uploads/2024/09/atividades-educacao-infantil-4-anos.pdf) — recortar/colar dias (adulto ajuda na tesoura) |
-| **Mês do aniversário / agora** | Ancorar 1–2 meses primeiro | 4 | Caseiro | Destacar o mês atual e o da Bella; demais meses só “passar o dedo” |
+| **Mês do aniversário / agora** | Ancorar 1–2 meses primeiro | 4 | Caseiro | Destacar o mês atual e o da Criança; demais meses só “passar o dedo” |
 
 ### Estações do ano e clima
 
@@ -236,7 +236,7 @@ Temas do quotidiano e ciência leve: **tempo (dias, meses, estações)**, **natu
 | Item | Por que ajuda | Idade | Tipo | Link / como |
 | --- | --- | --- | --- | --- |
 | **Noite de estrelas** | Curiosidade + observação | 3–5 | Caseiro | Olhar a Lua juntos; “cheia / fininha”. Ideias: [Robi Paint — espaço](https://robipaint.com.br/blog/atividades-sobre-o-espaco-e-o-sistema-solar-para-criancas/) |
-| **Bailado dos planetas** | Órbita com o corpo | 4 | Caseiro | Adulto = Sol (bola amarela); Bella gira em volta |
+| **Bailado dos planetas** | Órbita com o corpo | 4 | Caseiro | Adulto = Sol (bola amarela); Criança gira em volta |
 | **Massinha do Sistema Solar** | Nomes + cores aproximadas | 4–5 | Caseiro | Sol + Terra + Lua primeiro; depois “planetas amigos”. [Mamae no OB — maquetes](https://mamaenoob.com.br/3-ideias-de-maquete-sobre-o-sistema-solar-simples-e-faceis/) |
 | **NASA — preschool printables** | Contagem/traço/memória com tema espacial | Pré | Grátis EN (ok como visual) | [NASA Traveler preschool](https://science.nasa.gov/universe/fun-exploring-the-universe/preschool-activities-with-nasas-traveler/) |
 | **NASA Space Place** | Páginas e crafts de planetas | Kids | Grátis EN | [Planets](https://spaceplace.nasa.gov/menu/planets/) — adulto traduz/conversa em PT |
@@ -264,24 +264,24 @@ Temas do quotidiano e ciência leve: **tempo (dias, meses, estações)**, **natu
 | --- | --- | --- | --- |
 | **Motor fino** | Recorte assistido, colagem, miçangas grandes | Preparação da escrita | Tesoura ponta redonda + adulto |
 | **Motor grosso** | Circuito (pular, engatinhar) | Atenção + corpo | 5 min antes da “mesa” |
-| **Autonomia** | Guardar pasta Bella | Organização | Ritual: “missão cumprida” |
+| **Autonomia** | Guardar pasta da Criança | Organização | Ritual: “missão cumprida” |
 
 ---
 
 ## Kit inicial — primeira semana (tecendo PT + EN + math + mundo)
 
-Plano dia a dia calibrado: [rotina-semanal-bella.md](./rotina-semanal-bella.md).
+Plano dia a dia calibrado: [rotina-semanal.md](./rotina-semanal.md).
 
-Use **uma ou duas atividades por dia** (10–15 min). Sempre **1 min do conhecido** antes do resto. Materiais: cartão **“já sei”**, giz/lápis grosso, folhas, memória, massinha, 1 livro PT, cartão **BELLA**, calendário, 1 música EN.
+Use **uma ou duas atividades por dia** (10–15 min). Sempre **1 min do conhecido** antes do resto. Materiais: cartão **“já sei”**, giz/lápis grosso, folhas, memória, massinha, 1 livro PT, cartão do **nome**, calendário, 1 música EN.
 
 | Dia | Atividade | Tempo | Foco |
 | --- | --- | --- | --- |
-| **1** | Letras que já sabe → cartão BELLA (conhecidas + no máx. 1 nova) | 10–12 min | Letras PT |
+| **1** | Letras que já sabe → cartão do nome (conhecidas + no máx. 1 nova) | 10–12 min | Letras PT |
 | **2** | Números conhecidos → contar 5 → “me dá 3” → mais/menos (**sem** contas) | 10 min | Números + quantidade |
 | **3** | English song + contar em EN só até números que já usa em PT | 8–10 min | Inglês oral |
-| **4** | Rimas + palmas Be-lla + memória 3 pares | 12 min | Fonologia + cognição |
+| **4** | Rimas + palmas ca-sa + memória 3 pares | 12 min | Fonologia + cognição |
 | **5** | Formas/padrões **ou** mundo (clima / Lua / Sol+Terra) | 10 min | Math ou mundo |
-| **6–7** | Escolha da Bella / “festa do já sei” ou massinha Sol+Terra+Lua | 10 min | Motivação |
+| **6–7** | Escolha da Criança / “festa do já sei” ou massinha Sol+Terra+Lua | 10 min | Motivação |
 
 **Checklist:** cartão “já sei” atualizado; pasta com poucas folhas; 1 música EN familiar.
 
@@ -289,7 +289,7 @@ Use **uma ou duas atividades por dia** (10–15 min). Sempre **1 min do conhecid
 
 ## Próximos passos e lacunas
 
-1. **Cartão “já sei”** — listar letras e números que Bella já nomeia/escreve; atualizar semanalmente (diagnóstico: algumas letras/números; aprendizado inicial).
+1. **Cartão “já sei”** — listar letras e números que a Criança já nomeia/escreve; atualizar semanalmente (diagnóstico: algumas letras/números; aprendizado inicial).
 2. **Decisão Kumon oficial** (incl. Inglês) vs. só caseiro.
 3. **Acervo de livros** — lista curta PT-BR **e** 3–5 picture books em inglês (próxima entrega).
 4. **Calendário visual fixo** na cozinha/quarto + ritual matinal.
@@ -314,4 +314,4 @@ Use **uma ou duas atividades por dia** (10–15 min). Sempre **1 min do conhecid
 
 ---
 
-*Documento vivo do Project bellapricess — atualizar conforme Bella evolui.*
+*Documento vivo do Project — atualizar conforme Criança evolui.*
