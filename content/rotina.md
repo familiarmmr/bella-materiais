@@ -8,7 +8,7 @@ Materiais e links detalhados: [biblioteca-materiais.md](./biblioteca-materiais.m
 
 ## Nível da Criança (como calibrar)
 
-Criança **já reconhece e escreve algumas letras e números**, ainda em **aprendizado inicial**.
+Criança **já reconhece e escreve algumas letras e números**, ainda em **aprendizado inicial**. Tem **aula de inglês aos sábados** — em casa, reforçamos com minutinhos diários.
 
 | Sim | Ainda não |
 | --- | --- |
@@ -25,7 +25,9 @@ Criança **já reconhece e escreve algumas letras e números**, ainda em **apren
 
 ## Em uma frase
 
-**4–5 dias · 10–15 min · reforçar o conhecido · um novidade por vez · parar enquanto está gostoso.**
+**Todo dia 3–5 min de inglês + foco do dia (10–15 min) · reforçar o conhecido · um novidade por vez · parar enquanto está gostoso.**
+
+A Criança tem **aula de inglês aos sábados**. Em casa, o hábito é um pouquinho de EN **todos os dias**; sábado e domingo entram quando puder (a aula de sábado já conta).
 
 ---
 
@@ -34,7 +36,8 @@ Criança **já reconhece e escreve algumas letras e números**, ainda em **apren
 | Regra | Na prática |
 | --- | --- |
 | **Convite, não cobrança** | “Vamos brincar de…?” Se disser não: escolha B ou pular o dia |
-| **Um idioma por sessão** | Não misturar **pré-leitura em PT** e **inglês** nos mesmos 10–15 min |
+| **Inglês todo dia** | 3–5 min (música, hello/bye, 1 palavra da aula de sábado). Sáb/dom: quando puder |
+| **Bloco principal num idioma** | Não misturar **pré-leitura em PT** e **inglês** no mesmo bloco; o minutinho EN fica **separado** (antes ou depois) |
 | **Começa fácil** | Abrir com letra/número que ela já sabe escrever |
 | **Um novo só** | No máximo **1** letra **ou** **1** número novo na sessão (nunca os dois “novos” juntos) |
 | **Ritual de abertura** | Calendário: “Hoje é ___” (30 s, em português) |
@@ -50,14 +53,16 @@ Criança **já reconhece e escreve algumas letras e números**, ainda em **apren
 
 | Slot | Foco | Como calibrar para o nível dela |
 | --- | --- | --- |
+| **Todo dia** | Inglês curto (3–5 min) | Hello + 1 música ou 1–2 palavras da aula de sábado; fim de semana opcional |
 | **Dia A** | Português (letras + sons) | 2–3 letras “já sei” → no máx. 1 letra nova (do nome ou próxima) |
 | **Dia B** | Matemática (números + quantidade) | Números que já escreve + contar objetos; **sem** continhas |
-| **Dia C** | Inglês (só EN) | Música + fala; números EN dos que já conhece em PT |
+| **Dia C** | Inglês um pouco mais longo | 8–12 min só EN (além do hábito diário nos outros dias) |
 | **Dia D** | Mundo + motor/cognição leve | Calendário, natureza ou Sol/Lua + memória/massinha |
-| **Dia E** (opcional) | Escolha da Criança / reforço | Repetir vitórias da semana (letras/números conhecidos) |
-| **Fim de semana** | Livro em voz alta | Adulto lê; a Criança comenta figuras — **sem** cobrança de ler |
+| **Dia E** (opcional) | Escolha da Criança / reforço | Repetir vitórias da semana + minutinho EN |
+| **Sábado** | Aula de inglês + casa leve | Aula **conta** como EN do dia; em casa só reforço leve se houver energia |
+| **Domingo** | Livro + EN opcional | Adulto lê; a Criança comenta figuras; 3–5 min EN **quando puder** |
 
-Se só der **4 dias:** A → B → C → D.
+Se só der **4 dias de foco:** A → B → C → D — e mantenha o minutinho de inglês nos dias que fizerem.
 
 ---
 
@@ -69,30 +74,32 @@ Antes de segunda: façam o cartão **“já sei”** (letras + números) e a lis
 
 | | |
 | --- | --- |
-| **Tempo** | 10–12 min |
+| **Tempo** | 10–12 min + **3–5 min EN** |
 | **Aquecer (fácil)** | Criança escreve **sozinha** 1–2 letras que já sabe (ex.: B ou A). Elogiar. |
 | **Fazer** | Cartão do **nome**. Ela aponta as letras que já reconhece. Juntas: traçar no ar → na mesa → copiar **só as letras conhecidas** do nome. Se sobrar ânimo: apresentar **1** letra do nome que ainda não domina (mostrar, nomear, traçar 2× juntas) — sem exigir perfeição. |
-| **Não fazer** | Pedir que leia o nome como palavra “de cor” sob pressão; ditado longo. |
+| **Inglês do dia** | Hello! + 1 música curta (ou só “Good morning” + bye-bye). Repetir **1 palavra** que veio da aula de sábado. |
+| **Não fazer** | Pedir que leia o nome sob pressão; ditado longo; misturar PT e EN no mesmo bloco. |
 | **Fechar** | “Essas letras você já manda muito bem!” |
-| **Biblioteca** | §3 Nome próprio |
+| **Biblioteca** | §3 Nome próprio · §4 Inglês |
 
 ### Terça — Matemática (números conhecidos + quantidade)
 
 | | |
 | --- | --- |
-| **Tempo** | 10 min |
+| **Tempo** | 10 min + **3–5 min EN** |
 | **Aquecer** | Criança escreve 1–2 números que já sabe. |
 | **Fazer** | Contar **5** objetos. Pedir: “Me dá **3**” (ou outro número que ela já reconhece). Dois montinhos: “Quem tem **mais**?” Opcional: traçar **um** número conhecido em pontilhado feito à mão. |
+| **Inglês do dia** | Contar 1–5 em inglês com os mesmos objetos (*one, two, three…*). “How many?” |
 | **Não fazer** | Somar/subtrair no papel; “quanto é 2+2?”. |
 | **Fechar** | Ela escolhe quantos objetos guardar. |
-| **Biblioteca** | §5 Contagem e quantidade |
+| **Biblioteca** | §5 Contagem e quantidade · §4 Inglês |
 
-### Quarta — Inglês (oral + números conhecidos)
+### Quarta — Inglês (oral + números · dia um pouco mais longo)
 
 | | |
 | --- | --- |
-| **Tempo** | 8–10 min · **somente inglês** |
-| **Fazer** | “Good morning!” Uma música (alphabet **ou** numbers). Contar em EN só até um número que ela já usa em PT (ex.: 1–5). Se quiser letra: apontar no cartão do nome a letra que ela já sabe e dizer o nome em inglês (“B”) — **sem** lição de fonética. |
+| **Tempo** | 8–12 min · **somente inglês** (neste dia o bloco principal já é EN) |
+| **Fazer** | “Good morning!” Uma música (alphabet **ou** numbers). Contar em EN só até um número que ela já usa em PT (ex.: 1–5). Revisar 1–2 palavras da aula de sábado. Se quiser letra: apontar no cartão do nome a letra que ela já sabe e dizer o nome em inglês (“B”) — **sem** lição de fonética. |
 | **Não fazer** | Folha de leitura EN; misturar explicações longas em PT no meio da sessão. |
 | **Fechar** | “Bye-bye!” / high five. |
 | **Biblioteca** | §4 Inglês |
@@ -101,29 +108,40 @@ Antes de segunda: façam o cartão **“já sei”** (letras + números) e a lis
 
 | | |
 | --- | --- |
-| **Tempo** | 12 min |
+| **Tempo** | 12 min + **3–5 min EN** |
 | **Aquecer** | Nomear 2 letras “já sei”. |
 | **Fazer** | Rimas (“gato / pato — rimam?”). Palmas em **ca-sa**. Memória com **3 pares**. Se fácil: no fim, 1 letra nova do nome **só** para olhar e repetir o nome da letra (não precisa escrever ainda). |
+| **Inglês do dia** | Colors ou body: apontar 2–3 cores/partes do corpo em EN (*red, blue / head, hand*). Música curta se quiser. |
 | **Fechar** | Elogiar a espera da vez. |
-| **Biblioteca** | §3 Fonologia · §2 Memória |
+| **Biblioteca** | §3 Fonologia · §2 Memória · §4 Inglês |
 
 ### Sexta — Matemática (formas/padrões) **ou** Mundo
 
-Escolha **um** (cada bloco ≤ 10 min).
+Escolha **um** (cada bloco ≤ 10 min) + **3–5 min EN**.
 
 **Formas/padrões:** caça a círculos/quadrados **ou** padrão AB com tampinhas. No fim, se quiser: escrever **um** número conhecido “de presente”. → biblioteca §5  
 
 **Mundo:** clima no calendário **ou** olhar a Lua **ou** massinha Sol + Terra. → biblioteca §6  
 
-### Sábado ou domingo (leve)
+**Inglês do dia:** weather ou feelings (*sunny / rainy* ou *happy / sleepy*) + hello/bye.
+
+### Sábado — aula de inglês (+ casa leve se der)
+
+A **aula de inglês conta** como o inglês do dia. Em casa, só se sobrar ânimo: repetir **1 palavra ou gesto** novo da aula + “Good job!” / high five. Se estiver cansada, **pular** — a aula bastou. Sem empilhar outra sessão longa de EN no mesmo dia.
+
+Livro em PT ou brincadeira livre à vontade, sem cobrança de “lição extra”.
+
+### Domingo — leve + EN quando puder
 
 Escolha da Criança: repetir a favorita **ou** escrever no ar/quadro as letras e números **já sei** (festa do conhecido) **ou** massinha Sol + Terra + Lua. Livro em PT em voz alta — ela “lê” as figuras, adulto lê o texto.
+
+**Inglês (opcional, 3–5 min):** 1 música EN ou “Hello / Good night” + 1 palavra da semana. Ok pular se o domingo for de descanso.
 
 ---
 
 ## Semanas 2+ — modelo reutilizável
 
-Mesmos slots (A–E). Sempre: **conhecido primeiro → no máx. 1 novidade**.
+Mesmos slots (A–E) + **inglês curto todos os dias**. Sempre: **conhecido primeiro → no máx. 1 novidade**. Sábado: aula de inglês; domingo: EN opcional.
 
 ### Como escolher a “novidade” da semana
 
@@ -152,12 +170,13 @@ Mesmos slots (A–E). Sempre: **conhecido primeiro → no máx. 1 novidade**.
 
 → biblioteca §6
 
-### Mini-estrutura (15 min)
+### Mini-estrutura (~15–20 min)
 
 1. Calendário (30 s)  
 2. **Vitória rápida** — letra/número já sei (1–2 min)  
 3. Atividade principal (7–10 min)  
-4. Fechar / pasta (1–2 min)
+4. **Inglês curto** — 3–5 min (exceto quando o foco do dia já for EN ou sábado de aula)  
+5. Fechar / pasta (1–2 min)
 
 ---
 
@@ -174,7 +193,8 @@ Mesmos slots (A–E). Sempre: **conhecido primeiro → no máx. 1 novidade**.
 - [ ] 1 livro ilustrado PT
 - [ ] Pasta “da Criança”
 - [ ] Giz / lápis grosso
-- [ ] 1 música EN (adulto junto)
+- [ ] 1–2 músicas EN (adulto junto)
+- [ ] Lista rápida: palavras novas da aula de inglês de sábado
 
 ### Opcional imprimir
 

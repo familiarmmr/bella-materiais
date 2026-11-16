@@ -177,6 +177,11 @@ function renderRotina(data) {
         <dl>
           <div><dt>Aquecer</dt><dd>${escapeHtml(day.aquecer)}</dd></div>
           <div><dt>Fazer</dt><dd>${escapeHtml(day.fazer)}</dd></div>
+          ${
+            day.ingles
+              ? `<div><dt>Inglês do dia</dt><dd>${escapeHtml(day.ingles)}</dd></div>`
+              : ""
+          }
           <div><dt>Não fazer</dt><dd>${escapeHtml(day.naoFazer)}</dd></div>
           <div><dt>Fechar</dt><dd>${escapeHtml(day.fechar)}</dd></div>
         </dl>
@@ -293,12 +298,14 @@ Checklist caseira para a Família (sem folhas oficiais Kumon).
 - [ ] 3 pares de memória (sol, bola, estrela)
 
 ## Plano
-- Segunda — Português: letras do nome (10–12 min)
-- Terça — Matemática: números + quantidade (10 min)
-- Quarta — Inglês oral (8–10 min, só EN)
-- Quinta — Sons + memória (12 min)
-- Sexta — Formas/padrões ou Mundo (≤ 10 min)
-- Fim de semana — Escolha da Criança + livro em voz alta
+- Todo dia — 3–5 min de inglês (música / hello / 1 palavra da aula de sábado)
+- Segunda — Português: letras do nome (10–12 min) + EN curto
+- Terça — Matemática: números + quantidade (10 min) + EN curto
+- Quarta — Inglês um pouco mais longo (8–12 min, só EN)
+- Quinta — Sons + memória (12 min) + EN curto
+- Sexta — Formas/padrões ou Mundo (≤ 10 min) + EN curto
+- Sábado — Aula de inglês (conta como EN do dia); em casa só reforço leve se houver energia
+- Domingo — Escolha da Criança + livro; EN opcional 3–5 min quando puder
 
 ## Checklist dos pais
 - [ ] Quais letras/números entraram no cartão “já sei”?
