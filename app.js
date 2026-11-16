@@ -271,19 +271,19 @@ function printableHtml(title, markdown) {
 </body></html>`;
 }
 
-const KIT_MD = `# Kit Semana 1 — Bella
+const KIT_MD = `# Kit Semana 1 — Criança
 
-Checklist caseira para a Família R & M (sem folhas oficiais Kumon).
+Checklist caseira para a Família (sem folhas oficiais Kumon).
 
 ## Separar / fazer
 - [ ] Cartão “já sei” (letras e números de hoje)
-- [ ] Cartão grande BELLA
+- [ ] Cartão grande NOME
 - [ ] Calendário de parede + clip do dia
 - [ ] 8–10 objetos para contar
 - [ ] Tampinhas em 2 cores
 - [ ] Massinha
 - [ ] 1 livro ilustrado PT
-- [ ] Pasta “da Bella”
+- [ ] Pasta “da Criança”
 - [ ] Giz / lápis grosso
 - [ ] 1 música EN (adulto junto)
 
@@ -298,7 +298,7 @@ Checklist caseira para a Família R & M (sem folhas oficiais Kumon).
 - Quarta — Inglês oral (8–10 min, só EN)
 - Quinta — Sons + memória (12 min)
 - Sexta — Formas/padrões ou Mundo (≤ 10 min)
-- Fim de semana — Escolha da Bella + livro em voz alta
+- Fim de semana — Escolha da Criança + livro em voz alta
 
 ## Checklist dos pais
 - [ ] Quais letras/números entraram no cartão “já sei”?
@@ -318,20 +318,20 @@ function wireDownloads() {
     btn.addEventListener("click", () => {
       const kind = btn.getAttribute("data-download");
       if (kind === "biblioteca-md") {
-        downloadBlob("biblioteca-materiais-bella.md", bibliotecaMd);
+        downloadBlob("biblioteca-materiais.md", bibliotecaMd);
       } else if (kind === "rotina-md") {
-        downloadBlob("rotina-semanal-bella.md", rotinaMd);
+        downloadBlob("rotina-semanal.md", rotinaMd);
       } else if (kind === "kit-md") {
-        downloadBlob("kit-semana1-bella.md", KIT_MD);
+        downloadBlob("kit-semana1.md", KIT_MD);
       } else if (kind === "biblioteca-html") {
-        const html = printableHtml("Biblioteca de materiais — Bella", bibliotecaMd);
+        const html = printableHtml("Biblioteca de materiais — Criança", bibliotecaMd);
         const w = window.open("", "_blank");
         if (w) {
           w.document.write(html);
           w.document.close();
         }
       } else if (kind === "rotina-html") {
-        const html = printableHtml("Rotina semanal — Bella", rotinaMd);
+        const html = printableHtml("Rotina semanal — Criança", rotinaMd);
         const w = window.open("", "_blank");
         if (w) {
           w.document.write(html);

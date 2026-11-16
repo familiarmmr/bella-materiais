@@ -1,8 +1,8 @@
 {
   "intro": {
     "title": "Biblioteca de materiais",
-    "subtitle": "Curadoria prática para a Família R & M. Sessões curtas, lúdicas e sem pressão.",
-    "nivel": "Bella reconhece e escreve algumas letras e números — reforçar o conhecido e avançar no máximo 1 novidade por vez.",
+    "subtitle": "Curadoria prática para a Família. Sessões curtas, lúdicas e sem pressão.",
+    "nivel": "A Criança reconhece e escreve algumas letras e números — reforçar o conhecido e avançar no máximo 1 novidade por vez.",
     "comoUsar": [
       {
         "label": "Duração",
@@ -39,7 +39,7 @@
       "items": [
         {
           "title": "Ficha: números 0–5 (imprimir)",
-          "why": "Traçado + quantidade — pronta para a Bella",
+          "why": "Traçado + quantidade — pronta para praticar",
           "age": "~4",
           "type": "Baixar / imprimir",
           "url": "./content/folha-numeros-0-5.html",
@@ -47,11 +47,11 @@
           "note": "Abre a ficha → botão Imprimir / salvar PDF"
         },
         {
-          "title": "Ficha: letras do nome BELLA",
+          "title": "Ficha: letras do nome (cartão NOME)",
           "why": "Reforça as letras que ela já vê no próprio nome",
           "age": "~4",
           "type": "Baixar / imprimir",
-          "url": "./content/folha-letras-bella.html",
+          "url": "./content/folha-letras-nome.html",
           "action": "print",
           "note": "10–12 min · no máximo 1 letra nova"
         },
@@ -174,7 +174,7 @@
           "age": "4–5",
           "type": "Artigo",
           "url": "https://oficinadainteligencia.com.br/atividades-de-consciencia-fonologica-para-criancas-pre-escolares/",
-          "note": "Be-lla"
+          "note": "bo-la, ca-sa"
         },
         {
           "title": "iPsy — consciência fonológica",
@@ -186,7 +186,7 @@
         },
         {
           "title": "Nova Escola — nome próprio",
-          "why": "Primeira palavra forte: BELLA",
+          "why": "Primeira palavra forte: o próprio nome",
           "age": "4–5",
           "type": "Atividades",
           "url": "https://novaescola.org.br/arquivo/nome-proprio/atividades.shtml",
