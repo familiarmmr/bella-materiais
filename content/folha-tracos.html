@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ficha — Traços e caminhos · Criança</title>
+  <style>
+    :root {
+      --ink: #1f3a3a;
+      --soft: #e8f4f1;
+      --mint: #3d8b7a;
+      --guide: #9bb8b2;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0 auto;
+      padding: 1.25rem;
+      max-width: 800px;
+      font-family: Georgia, "Times New Roman", serif;
+      color: var(--ink);
+      line-height: 1.4;
+    }
+    h1 { font-size: 1.45rem; margin: 0 0 0.2rem; color: var(--mint); }
+    .sub { color: #456; margin: 0 0 1rem; font-size: 0.95rem; }
+    .how {
+      background: var(--soft);
+      border-radius: 10px;
+      padding: 0.75rem 1rem;
+      margin-bottom: 1.1rem;
+      font-size: 0.92rem;
+    }
+    .path {
+      margin: 1rem 0 1.35rem;
+      padding: 0.75rem 0;
+      border-bottom: 1px dashed #c5ddd6;
+      page-break-inside: avoid;
+    }
+    .path h2 {
+      margin: 0 0 0.55rem;
+      font-size: 1rem;
+      color: var(--mint);
+    }
+    svg {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+    .footer {
+      margin-top: 1rem;
+      font-size: 0.88rem;
+      color: #456;
+    }
+    @media print {
+      body { padding: 0.4rem; }
+      .noprint { display: none !important; }
+      .how { background: #f3f3f3; }
+    }
+  </style>
+</head>
+<body>
+  <p class="noprint"><button type="button" onclick="window.print()">Imprimir / salvar PDF</button></p>
+  <h1>Traços e caminhos</h1>
+  <p class="sub">Ficha caseira · Família · aquecimento da mão (não é material oficial Kumon)</p>
+  <div class="how">
+    <strong>Como usar (≈ 5–8 min):</strong> giz grosso ou lápis grosso.
+    Siga a linha pontilhada da estrela até o sol · sem pressa · pode fazer com o dedo primeiro.
+  </div>
+
+  <div class="path">
+    <h2>1 · Ondinhas</h2>
+    <svg viewBox="0 0 700 90" aria-label="Linha ondulada pontilhada">
+      <path d="M20 45 C 70 10, 120 80, 170 45 S 270 10, 320 45 S 420 80, 470 45 S 570 10, 620 45 S 670 80, 690 45"
+        fill="none" stroke="#9bb8b2" stroke-width="3" stroke-dasharray="6 8" stroke-linecap="round"/>
+      <circle cx="20" cy="45" r="8" fill="#3d8b7a"/>
+      <circle cx="690" cy="45" r="8" fill="#ef7d5a"/>
+    </svg>
+  </div>
+
+  <div class="path">
+    <h2>2 · Ziguezague</h2>
+    <svg viewBox="0 0 700 90" aria-label="Linha em ziguezague pontilhada">
+      <path d="M20 70 L 80 20 L 140 70 L 200 20 L 260 70 L 320 20 L 380 70 L 440 20 L 500 70 L 560 20 L 620 70 L 680 30"
+        fill="none" stroke="#9bb8b2" stroke-width="3" stroke-dasharray="6 8" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="20" cy="70" r="8" fill="#3d8b7a"/>
+      <circle cx="680" cy="30" r="8" fill="#ef7d5a"/>
+    </svg>
+  </div>
+
+  <div class="path">
+    <h2>3 · Espiral suave</h2>
+    <svg viewBox="0 0 700 140" aria-label="Espiral pontilhada">
+      <path d="M60 70 C 60 30, 140 20, 180 70 C 220 120, 120 130, 100 80 C 85 45, 160 40, 200 75 C 250 120, 320 110, 340 70 C 365 20, 450 25, 470 70 C 495 120, 560 115, 590 75 C 620 40, 660 50, 680 70"
+        fill="none" stroke="#9bb8b2" stroke-width="3" stroke-dasharray="6 8" stroke-linecap="round"/>
+      <circle cx="60" cy="70" r="8" fill="#3d8b7a"/>
+      <circle cx="680" cy="70" r="8" fill="#ef7d5a"/>
+    </svg>
+  </div>
+
+  <div class="path">
+    <h2>4 · Linha reta (treino de firmeza)</h2>
+    <svg viewBox="0 0 700 60" aria-label="Linha reta pontilhada">
+      <path d="M20 30 L 680 30" fill="none" stroke="#9bb8b2" stroke-width="3" stroke-dasharray="6 8" stroke-linecap="round"/>
+      <circle cx="20" cy="30" r="8" fill="#3d8b7a"/>
+      <circle cx="680" cy="30" r="8" fill="#ef7d5a"/>
+    </svg>
+  </div>
+
+  <p class="footer">Depois dos traços, passe para a ficha de números ou das letras do nome — um passinho de cada vez.</p>
+</body>
+</html>

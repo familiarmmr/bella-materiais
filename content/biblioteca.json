@@ -1,8 +1,8 @@
 {
   "intro": {
     "title": "Biblioteca de materiais",
-    "subtitle": "Curadoria prática para a Família R & M. Sessões curtas, lúdicas e sem pressão.",
-    "nivel": "Bella reconhece e escreve algumas letras e números — reforçar o conhecido e avançar no máximo 1 novidade por vez.",
+    "subtitle": "Curadoria prática para a Família. Sessões curtas, lúdicas e sem pressão.",
+    "nivel": "Criança reconhece e escreve algumas letras e números — reforçar o conhecido e avançar no máximo 1 novidade por vez.",
     "comoUsar": [
       {
         "label": "Duração",
@@ -35,71 +35,76 @@
       "id": "kumon",
       "emoji": false,
       "title": "Prática progressiva estilo Kumon",
-      "blurb": "Passos pequenos, pouco por dia, domínio antes de avançar — sem copiar material oficial.",
+      "blurb": "Passos pequenos, pouco por dia, domínio antes de avançar. As fichas oficiais do Kumon não se baixam — use as fichas caseiras abaixo para imprimir em casa.",
       "items": [
         {
-          "title": "Kumon Brasil — método e cursos",
-          "why": "Estrutura individualizada, hábito de estudo suave",
-          "age": "A partir do interesse",
-          "type": "Comercial",
-          "url": "https://www.kumon.com.br/",
-          "note": null
+          "title": "Ficha: números 0–5 (imprimir)",
+          "why": "Traçado + quantidade — pronta para a Criança",
+          "age": "~4",
+          "type": "Baixar / imprimir",
+          "url": "./content/folha-numeros-0-5.html",
+          "action": "print",
+          "note": "Abre a ficha → botão Imprimir / salvar PDF"
         },
         {
-          "title": "Material didático Kumon",
-          "why": "Passos pequenos, autoinstrução",
-          "age": "Pré-escolar+",
-          "type": "Comercial exclusivo",
-          "url": "https://www.kumon.com.br/metodo-kumon/material-didatico/",
-          "note": "Folhas oficiais não são para baixar/copiar"
+          "title": "Ficha: letras do nome da Criança",
+          "why": "Reforça as letras que ela já vê no próprio nome",
+          "age": "~4",
+          "type": "Baixar / imprimir",
+          "url": "./content/folha-letras-nome.html",
+          "action": "print",
+          "note": "10–12 min · no máximo 1 letra nova"
         },
         {
-          "title": "Idade / início",
-          "why": "Orienta quando faz sentido começar",
-          "age": "~2–3+",
-          "type": "Informativo",
-          "url": "https://www.kumon.com.br/blog/existe-idade-certa-para-iniciar-os-estudos-no-kumon-1/",
-          "note": null
-        },
-        {
-          "title": "Matemática para crianças (blog)",
-          "why": "Ideias de como tornar números naturais",
-          "age": "Pré-escolar",
-          "type": "Grátis",
-          "url": "https://www.kumon.com.br/blog/matematica-para-criancas/",
-          "note": null
-        },
-        {
-          "title": "Traços e grafismos (caseiro)",
-          "why": "Prepara mão e olhar",
+          "title": "Ficha: traços e caminhos",
+          "why": "Aquecimento da mão antes de letras/números",
           "age": "~3–5",
-          "type": "Grátis / caseiro",
-          "url": "https://aventuradosaber.pt/fichas/portugues-pre-escolar-os-meus-primeiros-tracos-grafismos-e-coordenacao-hyiyss",
-          "note": "3–5 linhas onduladas na A4 com giz grosso"
+          "type": "Baixar / imprimir",
+          "url": "./content/folha-tracos.html",
+          "action": "print",
+          "note": "5–8 min com giz ou lápis grosso"
         },
         {
-          "title": "Números pontilhados 0–10",
-          "why": "Traçado + número–quantidade",
+          "title": "Números pontilhados 0–10 (externo)",
+          "why": "Mais folhas de traçado + número–quantidade",
           "age": "~4–5",
           "type": "Grátis imprimir",
           "url": "https://www.espacoprofessor.com/numeros-pontilhados-para-a-educacao-infantil/",
-          "note": "Uma folha/dia"
+          "note": "Site externo · uma folha/dia"
         },
         {
           "title": "Educlub — números e quantidades",
-          "why": "Fichas para imprimir",
+          "why": "Fichas extras para imprimir",
           "age": "~4–5",
           "type": "Grátis",
           "url": "https://www.educlub.com.br/atividades/fichas-de-numeros-e-quantidades-para-imprimir",
-          "note": null
+          "note": "Site externo"
         },
         {
           "title": "Contagem com objetos",
           "why": "Numeracia concreta (BNCC EI03ET07)",
           "age": "~4",
           "type": "Caseiro",
-          "url": "https://bncc.dev/objetivo/EI03ET07/",
-          "note": "5 botões: quantos? me dá 3; 1 a mais"
+          "url": null,
+          "note": "5 botões: quantos? me dá 3; 1 a mais — sem download"
+        },
+        {
+          "title": "Kumon Brasil — método e cursos",
+          "why": "Só informação sobre o método comercial (não tem download de folhas)",
+          "age": "A partir do interesse",
+          "type": "Comercial — sem download",
+          "url": "https://www.kumon.com.br/",
+          "action": "info",
+          "note": "Folhas oficiais só com matrícula na unidade"
+        },
+        {
+          "title": "O que é o material didático Kumon",
+          "why": "Explica o método; não libera PDF para baixar",
+          "age": "Pré-escolar+",
+          "type": "Comercial — sem download",
+          "url": "https://www.kumon.com.br/metodo-kumon/material-didatico/",
+          "action": "info",
+          "note": "Não use sites de “apostila Kumon” (pirataria)"
         }
       ]
     },
@@ -169,7 +174,7 @@
           "age": "4–5",
           "type": "Artigo",
           "url": "https://oficinadainteligencia.com.br/atividades-de-consciencia-fonologica-para-criancas-pre-escolares/",
-          "note": "Be-lla"
+          "note": "ca-sa"
         },
         {
           "title": "iPsy — consciência fonológica",
@@ -181,7 +186,7 @@
         },
         {
           "title": "Nova Escola — nome próprio",
-          "why": "Primeira palavra forte: BELLA",
+          "why": "Primeira palavra forte: o próprio nome",
           "age": "4–5",
           "type": "Atividades",
           "url": "https://novaescola.org.br/arquivo/nome-proprio/atividades.shtml",

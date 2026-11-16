@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ficha — Letras do nome · Criança</title>
+  <style>
+    :root {
+      --ink: #1f3a3a;
+      --soft: #e8f4f1;
+      --mint: #3d8b7a;
+      --guide: #9bb8b2;
+      --coral: #d45f3c;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0 auto;
+      padding: 1.25rem;
+      max-width: 800px;
+      font-family: Georgia, "Times New Roman", serif;
+      color: var(--ink);
+      line-height: 1.4;
+    }
+    h1 { font-size: 1.45rem; margin: 0 0 0.2rem; color: var(--mint); }
+    .sub { color: #456; margin: 0 0 1rem; font-size: 0.95rem; }
+    .how {
+      background: var(--soft);
+      border-radius: 10px;
+      padding: 0.75rem 1rem;
+      margin-bottom: 1.1rem;
+      font-size: 0.92rem;
+    }
+    .name-line {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      margin: 0.5rem 0 1.25rem;
+      font-size: 0.95rem;
+    }
+    .name-line .blank {
+      flex: 1;
+      min-width: 12rem;
+      border-bottom: 2px solid var(--mint);
+      height: 2rem;
+    }
+    .letter-block {
+      border-bottom: 1px dashed #c5ddd6;
+      padding: 0.85rem 0;
+      page-break-inside: avoid;
+    }
+    .letter-block h2 {
+      margin: 0 0 0.55rem;
+      font-size: 1rem;
+      color: var(--coral);
+    }
+    .trace-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      align-items: center;
+    }
+    .model {
+      width: 3.2rem;
+      height: 3.6rem;
+      border-radius: 8px;
+      background: #f3faf8;
+      border: 2px solid var(--mint);
+      display: grid;
+      place-items: center;
+      font-family: Arial, sans-serif;
+      font-size: 2.2rem;
+      font-weight: 800;
+      color: var(--guide);
+    }
+    .model.empty {
+      color: transparent;
+      border-style: dashed;
+    }
+    .slot {
+      width: 3rem;
+      height: 3.6rem;
+      border: 2px dashed var(--guide);
+      border-radius: 8px;
+    }
+    .sound {
+      font-size: 0.88rem;
+      color: #456;
+      margin: 0.35rem 0 0;
+    }
+    .footer {
+      margin-top: 1.25rem;
+      font-size: 0.88rem;
+      color: #456;
+    }
+    @media print {
+      body { padding: 0.4rem; }
+      .noprint { display: none !important; }
+      .how { background: #f3f3f3; }
+    }
+  </style>
+</head>
+<body>
+  <p class="noprint"><button type="button" onclick="window.print()">Imprimir / salvar PDF</button></p>
+  <h1>Letras do nome · Criança</h1>
+  <p class="sub">Ficha caseira · Família · prática progressiva (não é material oficial Kumon)</p>
+  <div class="how">
+    <strong>Como usar (≈ 10–12 min):</strong> o adulto escreve o nome da Criança na linha abaixo
+    e escolhe 2–3 letras que ela já reconhece; no máximo 1 letra nova.
+    Diga o som da letra enquanto ela traça. Pare no auge do interesse.
+  </div>
+
+  <div class="name-line">
+    <span>Nome da Criança:</span>
+    <span class="blank" aria-hidden="true"></span>
+  </div>
+
+  <div class="letter-block">
+    <h2>Letra 1 do nome (adulto preenche)</h2>
+    <div class="trace-row">
+      <span class="model empty">?</span>
+      <span class="slot"></span><span class="slot"></span><span class="slot"></span>
+      <span class="slot"></span><span class="slot"></span><span class="slot"></span>
+    </div>
+    <p class="sound">Diga o som enquanto traça · comece pelo que ela já sabe</p>
+  </div>
+
+  <div class="letter-block">
+    <h2>Letra 2 do nome</h2>
+    <div class="trace-row">
+      <span class="model empty">?</span>
+      <span class="slot"></span><span class="slot"></span><span class="slot"></span>
+      <span class="slot"></span><span class="slot"></span><span class="slot"></span>
+    </div>
+    <p class="sound">Repetir 2–3 traços basta</p>
+  </div>
+
+  <div class="letter-block">
+    <h2>Letra 3 do nome</h2>
+    <div class="trace-row">
+      <span class="model empty">?</span>
+      <span class="slot"></span><span class="slot"></span><span class="slot"></span>
+      <span class="slot"></span><span class="slot"></span><span class="slot"></span>
+    </div>
+    <p class="sound">Se cansar, faça só com o dedo no ar ou na massinha</p>
+  </div>
+
+  <div class="letter-block">
+    <h2>Letra 4 (opcional · só se sobrar ânimo)</h2>
+    <div class="trace-row">
+      <span class="model empty">?</span>
+      <span class="slot"></span><span class="slot"></span><span class="slot"></span>
+      <span class="slot"></span><span class="slot"></span><span class="slot"></span>
+    </div>
+    <p class="sound">No máximo 1 novidade por sessão</p>
+  </div>
+
+  <p class="footer">Regra: conhecido primeiro · celebrar a tentativa · guardar na pasta da Criança.</p>
+</body>
+</html>
