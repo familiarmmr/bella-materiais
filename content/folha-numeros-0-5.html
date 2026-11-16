@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ficha — Números 0 a 5 · Bella</title>
+  <style>
+    :root {
+      --ink: #1f3a3a;
+      --soft: #e8f4f1;
+      --mint: #3d8b7a;
+      --guide: #9bb8b2;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0 auto;
+      padding: 1.25rem;
+      max-width: 800px;
+      font-family: Georgia, "Times New Roman", serif;
+      color: var(--ink);
+      line-height: 1.4;
+    }
+    h1 { font-size: 1.45rem; margin: 0 0 0.2rem; color: var(--mint); }
+    .sub { color: #456; margin: 0 0 1rem; font-size: 0.95rem; }
+    .how {
+      background: var(--soft);
+      border-radius: 10px;
+      padding: 0.75rem 1rem;
+      margin-bottom: 1.25rem;
+      font-size: 0.92rem;
+    }
+    .row {
+      display: grid;
+      grid-template-columns: 4.5rem 1fr;
+      gap: 0.75rem;
+      align-items: center;
+      border-bottom: 1px dashed #c5ddd6;
+      padding: 0.85rem 0;
+      page-break-inside: avoid;
+    }
+    .big {
+      font-size: 3.4rem;
+      font-weight: 700;
+      color: var(--guide);
+      text-align: center;
+      line-height: 1;
+      font-family: Arial, sans-serif;
+    }
+    .trace {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.55rem;
+      align-items: center;
+    }
+    .slot {
+      width: 2.6rem;
+      height: 3.2rem;
+      border: 2px dashed var(--guide);
+      border-radius: 8px;
+      display: grid;
+      place-items: center;
+      font-size: 1.8rem;
+      color: #c5d8d3;
+      font-family: Arial, sans-serif;
+      font-weight: 700;
+    }
+    .dots {
+      display: flex;
+      gap: 0.35rem;
+      margin-left: 0.35rem;
+      flex-wrap: wrap;
+    }
+    .dot {
+      width: 0.85rem;
+      height: 0.85rem;
+      border-radius: 50%;
+      border: 2px solid var(--mint);
+    }
+    .footer {
+      margin-top: 1.25rem;
+      font-size: 0.88rem;
+      color: #456;
+    }
+    @media print {
+      body { padding: 0.4rem; }
+      .noprint { display: none !important; }
+      .how { background: #f3f3f3; }
+    }
+  </style>
+</head>
+<body>
+  <p class="noprint"><button type="button" onclick="window.print()">Imprimir / salvar PDF</button></p>
+  <h1>Números 0 a 5</h1>
+  <p class="sub">Ficha caseira para a Bella · Família R &amp; M · estilo prática progressiva (não é material oficial Kumon)</p>
+  <div class="how">
+    <strong>Como usar (≈ 10 min):</strong> comece pelo número que ela já sabe.
+    Trace por cima do pontilhado · conte os bolinhos · diga o nome do número em voz alta.
+    Uma linha por dia basta. Pare enquanto ainda está gostoso.
+  </div>
+
+  <div class="row">
+    <div class="big">0</div>
+    <div class="trace">
+      <span class="slot">0</span><span class="slot">0</span><span class="slot">0</span><span class="slot"></span><span class="slot"></span>
+      <span class="dots" aria-label="nenhum"><em style="font-size:0.85rem;color:#678">nenhum</em></span>
+    </div>
+  </div>
+  <div class="row">
+    <div class="big">1</div>
+    <div class="trace">
+      <span class="slot">1</span><span class="slot">1</span><span class="slot">1</span><span class="slot"></span><span class="slot"></span>
+      <span class="dots"><span class="dot"></span></span>
+    </div>
+  </div>
+  <div class="row">
+    <div class="big">2</div>
+    <div class="trace">
+      <span class="slot">2</span><span class="slot">2</span><span class="slot">2</span><span class="slot"></span><span class="slot"></span>
+      <span class="dots"><span class="dot"></span><span class="dot"></span></span>
+    </div>
+  </div>
+  <div class="row">
+    <div class="big">3</div>
+    <div class="trace">
+      <span class="slot">3</span><span class="slot">3</span><span class="slot">3</span><span class="slot"></span><span class="slot"></span>
+      <span class="dots"><span class="dot"></span><span class="dot"></span><span class="dot"></span></span>
+    </div>
+  </div>
+  <div class="row">
+    <div class="big">4</div>
+    <div class="trace">
+      <span class="slot">4</span><span class="slot">4</span><span class="slot">4</span><span class="slot"></span><span class="slot"></span>
+      <span class="dots"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></span>
+    </div>
+  </div>
+  <div class="row">
+    <div class="big">5</div>
+    <div class="trace">
+      <span class="slot">5</span><span class="slot">5</span><span class="slot">5</span><span class="slot"></span><span class="slot"></span>
+      <span class="dots"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></span>
+    </div>
+  </div>
+
+  <p class="footer">Regra: conhecido primeiro · no máximo 1 novidade · celebrar a tentativa.</p>
+</body>
+</html>

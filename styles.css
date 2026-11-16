@@ -517,6 +517,11 @@ main {
   color: var(--coral-deep);
 }
 
+.tag.type-print {
+  background: #e4f5ec;
+  color: #1a6b4f;
+}
+
 .card p {
   margin: 0;
   font-size: 0.92rem;

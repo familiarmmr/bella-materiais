@@ -41,7 +41,15 @@ O **Kumon** é um método comercial com material exclusivo, avaliação diagnós
 | **Idade / início** | Orienta quando faz sentido começar | ~2–3+ conforme perfil | Informativo | [Idade mínima](https://www.kumon.com.br/blog/existe-idade-certa-para-iniciar-os-estudos-no-kumon-1/) |
 | **Matemática para crianças (blog)** | Ideias de como tornar números naturais | Pré-escolar | Grátis (artigo) | [Blog matemática](https://www.kumon.com.br/blog/matematica-para-criancas/) |
 
-> **Importante:** folhas oficiais do Kumon **não** são para baixar/copiar. Em casa, inspire-se nos princípios (pouco por dia, fácil → um pouco mais difícil) com materiais gratuitos. Evitar “Apostila Kumon” em sites de compartilhamento (risco de pirataria).
+> **Importante:** folhas oficiais do Kumon **não** são para baixar/copiar. Em casa, use as **fichas caseiras deste site** (abaixo) e inspire-se nos princípios (pouco por dia, fácil → um pouco mais difícil). Evitar “Apostila Kumon” em sites de compartilhamento (risco de pirataria).
+
+### Fichas para imprimir agora (neste site)
+
+| Ficha | Por que ajuda | Como usar |
+| --- | --- | --- |
+| **[Números 0–5](./folha-numeros-0-5.html)** | Traçado + quantidade | Abrir → Imprimir / salvar PDF · ~10 min |
+| **[Letras do nome BELLA](./folha-letras-bella.html)** | Letras que ela já vê no nome | 10–12 min · no máximo 1 letra nova |
+| **[Traços e caminhos](./folha-tracos.html)** | Aquecimento da mão | 5–8 min com giz ou lápis grosso |
 
 ### Alternativas gratuitas / caseiras “inspiradas em Kumon”
 
@@ -53,11 +61,9 @@ O **Kumon** é um método comercial com material exclusivo, avaliação diagnós
 
 | Item | Por que ajuda | Idade | Tipo | Como tentar em casa |
 | --- | --- | --- | --- | --- |
-| **Traços e grafismos** | Prepara mão e olhar | ~3–5 | Grátis / caseiro | 3–5 linhas onduladas na A4 com giz grosso. Ideia: [Aventura do Saber — primeiros traços](https://aventuradosaber.pt/fichas/portugues-pre-escolar-os-meus-primeiros-tracos-grafismos-e-coordenacao-hyiyss) |
 | **Números pontilhados 0–10** | Traçado + número–quantidade | ~4–5 | Grátis imprimir | Uma folha/dia. [Espaço do Professor](https://www.espacoprofessor.com/numeros-pontilhados-para-a-educacao-infantil/); [Educlub](https://www.educlub.com.br/atividades/fichas-de-numeros-e-quantidades-para-imprimir) |
-| **Contagem com objetos** | Numeracia concreta (BNCC EI03ET07) | ~4 | Caseiro | 5 botões: “quantos?”; “me dá 3”; “1 a mais”. [EI03ET07](https://bncc.dev/objetivo/EI03ET07/) |
+| **Contagem com objetos** | Numeracia concreta (BNCC EI03ET07) | ~4 | Caseiro | 5 botões: “quantos?”; “me dá 3”; “1 a mais”. |
 | **Sequência “igualzinho / um a mais”** | Progressão sem worksheet | ~4 | Caseiro | Dias 1–3: até 5. Dias 4–5: até 7. Depois traçar 1–5. |
-| **Twinkl / Education.com** | Pacotes prontos | Pré-escolar | Comercial freemium | Só se a família quiser assinatura. [Twinkl BR (exemplo)](https://www.twinkl.tt/resource/atividade-de-escrita-e-representao-de-nmeros-de-1-a-10-br-m-72) |
 
 ---
 

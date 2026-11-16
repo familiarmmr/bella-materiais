@@ -10,7 +10,19 @@ const escapeHtml = (value) =>
 const typeClass = (type = "") => {
   const t = type.toLowerCase();
   if (t.includes("comercial")) return "type-comercial";
+  if (t.includes("imprimir") || t.includes("baixar")) return "type-print";
   return "";
+};
+
+const cardActionLabel = (item) => {
+  if (item.action === "print" || (item.url && item.url.startsWith("./"))) {
+    return "Baixar / imprimir ↓";
+  }
+  if (item.action === "info" || (item.type || "").toLowerCase().includes("comercial")) {
+    return "Abrir site (sem download) ↗";
+  }
+  if (!item.url) return "Caseiro · sem link";
+  return "Abrir link ↗";
 };
 
 async function fetchText(path) {
@@ -80,7 +92,7 @@ function renderBiblioteca(data) {
             </div>
             <p>${escapeHtml(item.why)}</p>
             ${item.note ? `<p class="note">${escapeHtml(item.note)}</p>` : ""}
-            <span class="open">${item.url ? "Abrir link ↗" : "Caseiro"}</span>`;
+            <span class="open">${escapeHtml(cardActionLabel(item))}</span>`;
           if (item.url) {
             return `<a class="card" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">${inner}</a>`;
           }
@@ -88,10 +100,16 @@ function renderBiblioteca(data) {
         })
         .join("");
 
+      const notice =
+        section.id === "kumon"
+          ? `<div class="callout"><strong>Para imprimir agora:</strong> use as 3 primeiras fichas caseiras desta seção (números, letras do nome, traços). Os links “Kumon Brasil” só explicam o método comercial — não liberam folhas para baixar.</div>`
+          : "";
+
       return `
         <section class="library-section" id="section-${escapeHtml(section.id)}">
           <h2>${escapeHtml(section.title)}</h2>
           <p class="blurb">${escapeHtml(section.blurb)}</p>
+          ${notice}
           <div class="card-grid">${cards}</div>
         </section>`;
     })
